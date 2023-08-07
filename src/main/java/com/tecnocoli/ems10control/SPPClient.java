@@ -53,7 +53,7 @@ public class SPPClient implements DiscoveryListener{
     public LocalDevice getLocalDevice_1() {
         if (debug) {
             logger.info("Address: " + localDevice.getBluetoothAddress());
-            logger.info("Name: " + localDevice.getFriendlyName());
+            logger.info("Name: " + "localDevice.getFriendlyName()");
         }
         return localDevice;
     }
@@ -71,7 +71,7 @@ public class SPPClient implements DiscoveryListener{
             localDevice = LocalDevice.getLocalDevice();
             if (debug) {
                 logger.info("Address: " + localDevice.getBluetoothAddress());
-                logger.info("Name: " + localDevice.getFriendlyName());
+                logger.info("Name: " + "localDevice.getFriendlyName()");
             }
             agent = localDevice.getDiscoveryAgent();
         } catch (BluetoothStateException e) {
@@ -103,9 +103,11 @@ public class SPPClient implements DiscoveryListener{
         ArrayList<RemoteDeviceInfo> res = new ArrayList<>();
         for (RemoteDevice rd : vecDevices) {
             try {
-                RemoteDeviceInfo rdi = new RemoteDeviceInfo(rd.getFriendlyName(true), rd.getBluetoothAddress());
+                RemoteDeviceInfo rdi = new RemoteDeviceInfo("rd.getFriendlyName(true)", rd.getBluetoothAddress());
                 res.add(rdi);
-            } catch (IOException e) {
+                logger.info("Device: " + rd.getBluetoothAddress() + " - " + "rd.getFriendlyName(true)");
+                logger.info("rdi....");
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         }
@@ -117,9 +119,9 @@ public class SPPClient implements DiscoveryListener{
             RemoteDevice remoteDevice = vecDevices.elementAt(index);
             if (debug) {
                 logger.info("connecting...");
-                logger.info("remote device: " + remoteDevice.getBluetoothAddress() + " - " + remoteDevice.getFriendlyName(isOK));
+                logger.info("remote device: " + remoteDevice.getBluetoothAddress() + " - " +"remoteDevice.getFriendlyName(true)");
             }
-            partnerName = remoteDevice.getFriendlyName(true);
+            partnerName = "EMS";
             UUID[] uuidSet = new UUID[1];
             uuidSet[0] = new UUID("1101", true);
             if (debug) {

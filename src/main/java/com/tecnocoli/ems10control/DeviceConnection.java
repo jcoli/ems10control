@@ -74,7 +74,7 @@ public class DeviceConnection {
                 if (rd1.getBluetoothAddress().equals(add)) {
                     device_int = i;
                     if (debug) {
-                        logger.info("Device: " + rd1.getBluetoothAddress() + " - " + rd1.getFriendlyName(true));
+                        logger.info("Device: " + rd1.getBluetoothAddress() + " - " + "rd1.getFriendlyName(true)");
                         logger.info("Device: " + add);
                         logger.info("Device: " + i);
                     }
@@ -125,42 +125,48 @@ public class DeviceConnection {
             } catch (InterruptedException e) {
                 logger.info("catch " + e);
             }
+            logger.info("aqui ");
             Vector<RemoteDevice> vc = sppClient.getVecDevices();
             int deviceCount = vc.size();
+            logger.info("aqui dev "+ deviceCount);
             if (deviceCount > 1) {
-                for (int i = 0; i < deviceCount; i++) {
-                    RemoteDevice rd = (RemoteDevice) vc.elementAt(i);
-                    if (rd.getFriendlyName(true) != null) {
-                        if (debug) {
-                            logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true));
-                        }
-                        if (!(rd.getFriendlyName(true).contains("EMS"))) {
-                            if (debug) {
-                                logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true));
-                                logger.info("Remove");
-                            }
-                            vc.remove(i);
-                            i--;
-                        }
-                    } else {
-                        vc.remove(i);
-                        i--;
-                    }
-                }
+                logger.info("aqui 1");
+//                for (int i = 0; i < deviceCount; i++) {
+//                    RemoteDevice rd = (RemoteDevice) vc.elementAt(i);
+//                    if (rd.getFriendlyName(true) != null) {
+//                        if (debug) {
+//                            logger.info("Device: " + rd.getBluetoothAddress() + " - " +" rd.getFriendlyName(true)");
+//                        }
+//                        if (!(rd.getFriendlyName(true).contains("EMS"))) {
+//                            if (debug) {
+//                                logger.info("Device: " + rd.getBluetoothAddress() + " - " + "rd.getFriendlyName(true)");
+//                                logger.info("Remove");
+//                            }
+//                            vc.remove(i);
+//                            i--;
+//                        }
+//                    } else {
+//                        vc.remove(i);
+//                        i--;
+//                    }
+//                }
             } else {
-                RemoteDevice rd = (RemoteDevice) vc.elementAt(0);
-                if (rd.getFriendlyName(true) != null) {
-                    logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true));
-                    if (!(rd.getFriendlyName(true).contains("EMS"))) {
-                        if (debug) {
-                            logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true));
-                            logger.info("Remove 1");
-                        }
-                        vc.remove(0);
-                    }
-                } else {
-                    vc.remove(0);
-                }
+//                logger.info("aqui 2");
+//                RemoteDevice rd = (RemoteDevice) vc.elementAt(0);
+//                logger.info("aqui 3");
+//
+//                if (rd.getFriendlyName(true) != null) {
+//                    logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true));
+//                    if (!(rd.getFriendlyName(true).contains("EMS"))) {
+//                        if (debug) {
+//                            logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true));
+//                            logger.info("Remove 1");
+//                        }
+//                        vc.remove(0);
+//                    }
+//                } else {
+//                    vc.remove(0);
+//                }
             }
             deviceCount = vc.size();
             if (deviceCount <= 0) {
@@ -172,7 +178,7 @@ public class DeviceConnection {
                         if (rd.isAuthenticated()) {
                             logger.info("Device: is authenticated");
                         }
-                        logger.info("Device: " + rd.getBluetoothAddress() + " - " + rd.getFriendlyName(true) + " - " + rd.toString());
+                        logger.info("Device: " + rd.getBluetoothAddress() + " - " + "rd.getFriendlyName(true)"+ " - " + rd.toString());
                     }
                 }
             }

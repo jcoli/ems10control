@@ -100,7 +100,8 @@ public class PrimaryController implements Initializable {
                     }
                     btConnected = true;
                     lblConn.setText("Connected");
-                    EMSDevice emsDevice1 = new EMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), rd.getFriendlyName(true));
+                    logger.info("Test");
+                    EMSDevice emsDevice1 = new EMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS");
                     vcEmsDevice.add(emsDevice1);
                     vcEmsDevice.elementAt(0).setConnectedDevice(true);
                     countDevices++;
@@ -204,7 +205,7 @@ public class PrimaryController implements Initializable {
                             sendMsg(s);
                             logger.info("warchdog: "+connectWatchDog);
                             if (!vcEmsDevice.isEmpty()) {
-                                lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
+//                                lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
                                 lblAdd.setText(vcEmsDevice.elementAt(0).getAddressDevice());
                                 lblTemp.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getTemperatureLevel()) + "°C");
                                 lblBat.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryLevel()) + "V");
