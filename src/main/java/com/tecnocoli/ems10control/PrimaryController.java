@@ -27,6 +27,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Alert.AlertType;
+import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.control.Label;
@@ -73,6 +74,40 @@ public class PrimaryController implements Initializable {
     private Label lblAdd;
     @FXML
     private Label lblName;
+    @FXML
+    private Button btnRun;
+    @FXML
+    private Button btnDiscon;
+
+    @FXML
+    private void toDiscon() throws IOException{
+        try {
+            if (btConnected){
+                deviceConnection.Disconnect();
+                lblConn.setText("Disconnected");
+                String s = ("co,0,0,0,#");
+                sendMsg(s);
+            }
+        }catch ( IOException e){
+            logger.info("Discon " + e);
+        }
+    }
+    @FXML
+    private void toRun() throws IOException{
+        try {
+            if (btConnected){
+                String s = ("ru,0,0,1,#");
+                sendMsg(s);
+                logger.info("toRun ");
+            }else{
+                String s = ("ru,0,0,0,#");
+                sendMsg(s);
+                logger.info("not Run " );
+            }
+        }catch ( IOException e){
+            logger.info("toRun " + e);
+        }
+    }
 
     @FXML
     private void toConnectAdd() throws IOException {
@@ -83,6 +118,7 @@ public class PrimaryController implements Initializable {
             String add = txtAddress.getText();
             RemoteDevice rd;
             rd = deviceConnection.toConnectAdd(add);
+
             if (rd != null) {
 
                 if (deviceConnection.sppClient.connectionURL == null) {

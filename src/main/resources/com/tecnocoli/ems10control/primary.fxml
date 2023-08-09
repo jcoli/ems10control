@@ -122,7 +122,7 @@
                                     <Label layoutX="14.0" layoutY="83.0" text="Temperature:" />
                                     <Label layoutX="14.0" layoutY="66.0" text="Address:" />
                                     <Label fx:id="lblAdd" layoutX="112.0" layoutY="66.0" text="00:00:00:00:00:00" />
-                                    <Button layoutX="184.0" layoutY="89.0" mnemonicParsing="false" prefHeight="24.0" prefWidth="50.0" text="Run" />
+                                    <Button fx:id="btnRun" layoutX="184.0" layoutY="89.0" mnemonicParsing="false" onAction="#toRun" prefHeight="24.0" prefWidth="50.0" text="Run" />
                                     <Label layoutX="14.0" layoutY="117.0" text="Name: " />
                                     <Label fx:id="lblName" layoutX="112.0" layoutY="117.0" text="EMS" />
                                     <TextField fx:id="txtAddress" layoutX="483.0" layoutY="15.0" prefHeight="24.0" prefWidth="137.0" text="782184BB228E" />
@@ -130,6 +130,7 @@
                                        <font>
                                           <Font name="System Bold" size="13.0" />
                                        </font></Label>
+                                    <Button fx:id="btnDiscon" layoutX="143.0" layoutY="135.0" mnemonicParsing="false" onAction="#toDiscon" text="Disconnect" />
                                  </children>
                               </Pane>
                            </children>
