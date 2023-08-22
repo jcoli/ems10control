@@ -1,0 +1,136 @@
+2023-08-04 17:55:31,382 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 17:55:31,408 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 17:55:31,409 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 17:55:31,428 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 17:55:31,971 INFO c.t.e.App [JavaFX Application Thread] start app
+2023-08-04 17:55:31,971 INFO c.t.e.App [JavaFX Application Thread] BluetoothTCKAgentApp: Setting Device to Discoverable
+2023-08-04 17:55:57,315 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 17:55:57,315 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 17:55:57,315 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 17:55:57,334 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 17:55:57,342 INFO c.t.e.App [JavaFX Application Thread] DeviceLocal SetDiscoverable 
+2023-08-04 17:55:57,343 INFO c.t.e.App [JavaFX Application Thread] Starting device inquiry…
+2023-08-04 17:55:57,345 INFO c.t.e.App [JavaFX Application Thread] waiting discovery: 
+2023-08-04 17:56:06,769 INFO c.t.e.App [DeviceInquiryThread-0] Complete device inquiry…
+2023-08-04 17:56:11,769 INFO c.t.e.App [JavaFX Application Thread] scanDevices: java.io.IOException: Can not get remote device name
+2023-08-04 17:56:11,857 INFO c.t.e.App [JavaFX Application Thread] Device: 782184BB228E - EMS-01
+2023-08-04 17:56:11,857 INFO c.t.e.App [JavaFX Application Thread] Device: 782184BB228E
+2023-08-04 17:56:11,858 INFO c.t.e.App [JavaFX Application Thread] Device: 0
+2023-08-04 17:56:11,858 INFO c.t.e.App [JavaFX Application Thread] connecting...
+2023-08-04 17:56:11,858 INFO c.t.e.App [JavaFX Application Thread] remote device: 782184BB228E - EMS-01
+2023-08-04 17:56:16,863 INFO c.t.e.App [JavaFX Application Thread] disconnected
+2023-08-04 17:56:16,863 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 17:58:33,213 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 17:58:33,213 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 17:58:33,213 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 17:58:33,232 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 17:58:33,254 INFO c.t.e.App [JavaFX Application Thread] DeviceLocal SetDiscoverable 
+2023-08-04 17:58:33,254 INFO c.t.e.App [JavaFX Application Thread] Starting device inquiry…
+2023-08-04 17:58:33,255 INFO c.t.e.App [JavaFX Application Thread] waiting discovery: 
+2023-08-04 17:58:40,288 INFO c.t.e.App [DeviceInquiryThread-1] Complete device inquiry…
+2023-08-04 17:58:45,288 INFO c.t.e.App [JavaFX Application Thread] scanDevices: java.io.IOException: Can not get remote device name
+2023-08-04 17:58:45,378 INFO c.t.e.App [JavaFX Application Thread] Device: 782184BB228E - EMS-01
+2023-08-04 17:58:45,378 INFO c.t.e.App [JavaFX Application Thread] Device: 782184BB228E
+2023-08-04 17:58:45,379 INFO c.t.e.App [JavaFX Application Thread] Device: 0
+2023-08-04 17:58:45,379 INFO c.t.e.App [JavaFX Application Thread] connecting...
+2023-08-04 17:58:45,379 INFO c.t.e.App [JavaFX Application Thread] remote device: 782184BB228E - EMS-01
+2023-08-04 17:58:50,382 INFO c.t.e.App [JavaFX Application Thread] disconnected
+2023-08-04 17:58:50,383 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:00:30,486 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:00:30,487 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:00:30,487 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:00:30,487 INFO c.t.e.App [JavaFX Application Thread] Name: null
+2023-08-04 18:00:30,487 INFO c.t.e.App [JavaFX Application Thread] scanDevices: java.lang.RuntimeException: Unable to retrieve the local scan mode.
+2023-08-04 18:00:30,488 INFO c.t.e.App [JavaFX Application Thread] catch java.io.IOException: Can not get remote device name
+2023-08-04 18:00:30,488 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:00:38,650 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:00:38,651 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:00:38,651 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:00:38,651 INFO c.t.e.App [JavaFX Application Thread] Name: null
+2023-08-04 18:00:38,652 INFO c.t.e.App [JavaFX Application Thread] scanDevices: java.lang.RuntimeException: Unable to retrieve the local scan mode.
+2023-08-04 18:00:38,652 INFO c.t.e.App [JavaFX Application Thread] catch java.io.IOException: Can not get remote device name
+2023-08-04 18:00:38,652 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:00:53,581 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:00:53,598 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:00:53,598 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:00:53,615 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:00:53,932 INFO c.t.e.App [JavaFX Application Thread] start app
+2023-08-04 18:00:53,932 INFO c.t.e.App [JavaFX Application Thread] BluetoothTCKAgentApp: Setting Device to Discoverable
+2023-08-04 18:00:56,599 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:00:56,599 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:00:56,599 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:00:56,615 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:00:56,616 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:00:56,616 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:01:05,849 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:05,849 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:05,849 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:01:05,866 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:01:05,867 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:01:05,867 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:01:35,753 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:35,753 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:35,754 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:01:35,754 INFO c.t.e.App [JavaFX Application Thread] Name: null
+2023-08-04 18:01:35,754 INFO c.t.e.App [JavaFX Application Thread] scanDevices: java.lang.RuntimeException: Unable to retrieve the local scan mode.
+2023-08-04 18:01:35,755 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:01:37,915 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:37,916 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:37,916 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:01:37,916 INFO c.t.e.App [JavaFX Application Thread] Name: null
+2023-08-04 18:01:37,917 INFO c.t.e.App [JavaFX Application Thread] scanDevices: java.lang.RuntimeException: Unable to retrieve the local scan mode.
+2023-08-04 18:01:37,917 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:01:47,635 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:01:47,652 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:01:47,654 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:01:47,670 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:01:48,031 INFO c.t.e.App [JavaFX Application Thread] start app
+2023-08-04 18:01:48,031 INFO c.t.e.App [JavaFX Application Thread] BluetoothTCKAgentApp: Setting Device to Discoverable
+2023-08-04 18:01:53,207 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:53,208 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:01:53,208 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:01:53,225 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:01:53,226 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:01:53,226 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:06:31,940 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:06:31,961 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:06:31,963 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:06:31,982 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:06:32,346 INFO c.t.e.App [JavaFX Application Thread] start app
+2023-08-04 18:06:32,346 INFO c.t.e.App [JavaFX Application Thread] BluetoothTCKAgentApp: Setting Device to Discoverable
+2023-08-04 18:06:34,715 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:06:34,715 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:06:34,716 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:06:34,736 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:06:34,740 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:06:34,740 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:06:47,493 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:06:47,494 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:06:47,494 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:06:47,512 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:06:47,516 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:06:47,517 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:06:51,203 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:06:51,204 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:06:51,204 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:06:51,223 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:06:51,227 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:06:51,227 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:15:44,404 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:15:44,425 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:15:44,427 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:15:44,446 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:15:44,871 INFO c.t.e.App [JavaFX Application Thread] start app
+2023-08-04 18:15:44,871 INFO c.t.e.App [JavaFX Application Thread] BluetoothTCKAgentApp: Setting Device to Discoverable
+2023-08-04 18:15:53,128 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:15:53,129 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:15:53,129 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:15:53,148 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:15:53,152 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:15:53,152 INFO c.t.e.App [JavaFX Application Thread] Have no devices
+2023-08-04 18:20:29,078 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:20:29,079 INFO c.t.e.App [JavaFX Application Thread] teste1
+2023-08-04 18:20:29,079 INFO c.t.e.App [JavaFX Application Thread] Address: 047F0E43F479
+2023-08-04 18:20:29,097 INFO c.t.e.App [JavaFX Application Thread] Name: jcoli-desktop3
+2023-08-04 18:20:29,102 INFO c.t.e.App [JavaFX Application Thread] scanDevices: javax.bluetooth.BluetoothStateException: Bluetooth Device is not ready. [1] Operation not permitted
+2023-08-04 18:20:29,102 INFO c.t.e.App [JavaFX Application Thread] Have no devices

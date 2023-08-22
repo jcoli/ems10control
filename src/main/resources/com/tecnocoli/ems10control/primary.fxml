@@ -115,22 +115,26 @@
                                  <children>
                                     <Label layoutX="417.0" layoutY="19.0" text="Address:" />
                                     <Button fx:id="connAdd" layoutX="631.0" layoutY="15.0" mnemonicParsing="false" onAction="#toConnectAdd" prefHeight="24.0" prefWidth="143.0" text="Connect Address" />
-                                    <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#deecf8" height="104.0" layoutX="4.0" layoutY="59.0" stroke="BLACK" strokeType="INSIDE" width="246.0" />
+                                    <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#deecf8" height="137.0" layoutX="4.0" layoutY="59.0" stroke="BLACK" strokeType="INSIDE" width="246.0" />
                                     <Label fx:id="lblTemp" layoutX="112.0" layoutY="83.0" text="0°C" />
-                                    <Label fx:id="lblBat" layoutX="112.0" layoutY="100.0" text="0V" />
-                                    <Label layoutX="14.0" layoutY="100.0" text="Batery:" />
+                                    <Label fx:id="lblCel1" layoutX="112.0" layoutY="100.0" text="0V" />
+                                    <Label layoutX="14.0" layoutY="100.0" text="Battery Cell 1:" />
                                     <Label layoutX="14.0" layoutY="83.0" text="Temperature:" />
                                     <Label layoutX="14.0" layoutY="66.0" text="Address:" />
                                     <Label fx:id="lblAdd" layoutX="112.0" layoutY="66.0" text="00:00:00:00:00:00" />
                                     <Button fx:id="btnRun" layoutX="184.0" layoutY="89.0" mnemonicParsing="false" onAction="#toRun" prefHeight="24.0" prefWidth="50.0" text="Run" />
-                                    <Label layoutX="14.0" layoutY="117.0" text="Name: " />
-                                    <Label fx:id="lblName" layoutX="112.0" layoutY="117.0" text="EMS" />
+                                    <Label layoutX="14.0" layoutY="151.0" text="Name: " />
+                                    <Label fx:id="lblName" layoutX="112.0" layoutY="151.0" text="EMS" />
                                     <TextField fx:id="txtAddress" layoutX="483.0" layoutY="15.0" prefHeight="24.0" prefWidth="137.0" text="782184BB228E" />
-                                    <Label fx:id="lblConn" layoutX="14.0" layoutY="139.0" prefHeight="16.0" prefWidth="102.0" text="Disconnected" textFill="#dd0e0e">
+                                    <Label fx:id="lblConn" layoutX="14.0" layoutY="174.0" prefHeight="16.0" prefWidth="102.0" text="Disconnected" textFill="#dd0e0e">
                                        <font>
                                           <Font name="System Bold" size="13.0" />
                                        </font></Label>
-                                    <Button fx:id="btnDiscon" layoutX="143.0" layoutY="135.0" mnemonicParsing="false" onAction="#toDiscon" text="Disconnect" />
+                                    <Button fx:id="btnDiscon" layoutX="143.0" layoutY="170.0" mnemonicParsing="false" onAction="#toDiscon" text="Disconnect" />
+                                    <Label layoutX="14.0" layoutY="117.0" text="Battery Cell 2:" />
+                                    <Label layoutX="14.0" layoutY="134.0" text="Battery Total:" />
+                                    <Label fx:id="lblCel2" layoutX="112.0" layoutY="117.0" text="0V" />
+                                    <Label fx:id="lblBat" layoutX="112.0" layoutY="134.0" text="0V" />
                                  </children>
                               </Pane>
                            </children>

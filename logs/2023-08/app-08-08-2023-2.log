@@ -1,0 +1,1529 @@
+2023-08-08 14:37:50,589 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:50,598 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:50,598 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:50,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:37:51,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:51,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:51,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:51,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:51,790 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:51,790 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:52,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:52,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:52,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:52,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:52,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:52,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:52,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:37:53,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:53,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:53,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:53,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:53,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:53,166 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:54,494 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:37:54,494 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:37:54,494 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:54,494 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:54,494 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:37:54,494 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:37:54,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:37:55,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6670.00,#
+2023-08-08 14:37:55,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6670.00,#
+2023-08-08 14:37:55,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:55,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:55,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6670.00
+2023-08-08 14:37:55,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6670.00,#
+2023-08-08 14:37:56,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:56,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:56,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:56,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:56,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:56,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:56,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:37:56,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:56,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:56,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:56,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:56,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:56,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:58,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:58,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:58,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:58,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:58,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:58,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:58,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:37:59,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:59,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:37:59,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:37:59,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:37:59,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:37:59,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:00,477 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:00,477 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:00,477 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:00,477 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:00,477 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:00,477 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:00,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:01,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:01,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:01,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:01,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:01,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:01,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:02,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:02,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:02,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:02,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:02,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:38:02,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:02,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:03,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6672.00,#
+2023-08-08 14:38:03,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6672.00,#
+2023-08-08 14:38:03,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:03,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:03,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6672.00
+2023-08-08 14:38:03,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6672.00,#
+2023-08-08 14:38:04,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:04,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:04,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:04,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:04,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:04,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:04,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:04,945 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:04,945 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:04,945 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:04,945 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:04,945 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:04,945 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:06,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:06,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:06,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:06,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:06,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:06,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:06,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:07,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:07,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:07,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:07,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:07,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:07,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:08,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:08,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:08,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:08,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:08,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:08,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:08,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:09,161 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:09,161 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:09,161 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:09,161 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:09,161 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:09,161 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:10,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:10,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:10,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:10,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:10,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:38:10,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:10,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:11,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:38:11,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:38:11,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:11,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:11,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6678.00
+2023-08-08 14:38:11,318 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:38:12,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:12,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:12,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:12,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:12,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:12,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:12,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:12,942 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:12,942 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:12,942 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:12,942 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:12,942 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:12,942 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,077 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,077 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,077 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:14,077 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:14,077 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:14,077 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,585 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,585 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,585 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:14,585 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:14,585 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:14,585 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:14,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:15,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:15,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:15,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:15,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:15,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:15,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:16,473 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:16,473 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:16,473 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:16,473 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:16,473 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:16,473 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:16,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:17,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:17,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:17,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:17,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:17,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:17,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:18,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:18,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:18,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:18,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:18,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:38:18,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:18,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:19,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6695.00,#
+2023-08-08 14:38:19,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6695.00,#
+2023-08-08 14:38:19,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:19,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:19,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6695.00
+2023-08-08 14:38:19,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6695.00,#
+2023-08-08 14:38:20,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:20,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:20,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:20,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:20,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:20,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:20,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:20,945 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:20,945 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:20,945 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:20,945 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:20,945 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:20,945 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:22,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:22,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:22,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:22,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:22,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:22,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:22,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:23,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:23,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:23,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:23,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:23,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:23,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:24,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:24,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:24,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:24,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:24,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:24,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:24,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:25,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:25,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:25,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:25,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:25,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:25,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:26,501 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:26,501 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:26,501 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:26,501 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:26,501 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:38:26,501 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:26,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:27,321 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:38:27,321 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:38:27,321 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:27,321 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:27,321 INFO c.t.e.App [JavaFX Application Thread] Bat: 6660.00
+2023-08-08 14:38:27,321 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:38:28,429 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:28,429 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:28,429 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:28,429 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:28,429 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:28,429 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:28,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:28,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:28,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:28,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:28,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:28,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:28,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:30,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:30,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:30,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:30,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:30,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:30,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:30,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:31,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:31,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:31,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:31,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:31,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:31,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:32,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:32,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:32,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:32,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:32,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:32,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:32,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:33,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:33,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:33,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:33,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:33,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:33,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:34,509 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:34,509 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:34,509 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:34,509 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:34,509 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:38:34,509 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:34,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:35,321 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:38:35,321 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:38:35,321 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:35,321 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:35,321 INFO c.t.e.App [JavaFX Application Thread] Bat: 6660.00
+2023-08-08 14:38:35,321 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:38:36,425 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:36,425 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:36,425 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:36,425 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:36,425 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:36,425 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:36,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:36,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:36,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:36,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:36,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:36,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:36,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:38,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:38,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:38,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:38,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:38,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:38,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:38,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:39,793 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:39,793 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:39,793 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:39,793 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:39,793 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:39,793 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:40,485 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:40,485 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:40,485 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:40,485 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:40,485 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:40,485 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:40,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:41,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:41,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:41,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:41,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:41,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:41,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:42,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:42,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:42,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:42,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:42,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:38:42,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:38:42,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:43,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6695.00,#
+2023-08-08 14:38:43,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6695.00,#
+2023-08-08 14:38:43,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:43,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:43,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6695.00
+2023-08-08 14:38:43,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6695.00,#
+2023-08-08 14:38:44,425 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:44,425 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:44,425 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:44,425 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:44,425 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:44,425 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:44,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:44,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:44,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:44,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:44,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:44,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:44,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:46,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:46,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:46,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:46,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:46,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:46,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:46,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:47,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:47,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:47,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:47,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:47,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:47,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:48,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:48,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:48,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:48,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:48,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:48,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:48,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:49,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:49,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:49,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:49,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:49,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:49,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:50,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:38:50,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:38:50,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:50,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:50,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:38:50,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:38:50,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:51,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6725.00,#
+2023-08-08 14:38:51,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6725.00,#
+2023-08-08 14:38:51,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:51,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:51,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6725.00
+2023-08-08 14:38:51,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6725.00,#
+2023-08-08 14:38:52,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:52,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:52,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:52,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:52,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:52,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:52,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:52,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:52,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:52,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:52,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:52,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:52,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,070 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:54,070 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:54,070 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:54,070 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,585 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,585 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,585 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:54,585 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:54,585 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:54,585 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:54,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:55,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:55,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:55,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:55,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:55,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:55,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:56,473 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:56,473 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:56,473 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:56,473 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:56,473 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:56,473 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:56,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:57,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:57,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:57,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:57,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:57,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:38:57,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:38:58,501 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,37.00,#
+2023-08-08 14:38:58,501 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,37.00,#
+2023-08-08 14:38:58,501 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:58,501 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:58,501 INFO c.t.e.App [JavaFX Application Thread] Temp: 37.00
+2023-08-08 14:38:58,501 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,37.00,#
+2023-08-08 14:38:58,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:38:59,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6672.00,#
+2023-08-08 14:38:59,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6672.00,#
+2023-08-08 14:38:59,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:38:59,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:38:59,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6672.00
+2023-08-08 14:38:59,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6672.00,#
+2023-08-08 14:39:00,449 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:00,449 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:00,449 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:00,449 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:00,449 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:00,449 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:00,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:00,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:00,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:00,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:00,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:00,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:00,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:02,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:02,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:02,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:02,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:02,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:02,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:02,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:03,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:03,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:03,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:03,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:03,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:03,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:04,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:04,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:04,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:04,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:04,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:04,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:04,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:05,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:05,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:05,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:05,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:05,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:05,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:06,493 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:39:06,493 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:39:06,493 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:06,493 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:06,493 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:39:06,493 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:39:06,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:07,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6680.00,#
+2023-08-08 14:39:07,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6680.00,#
+2023-08-08 14:39:07,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:07,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:07,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6680.00
+2023-08-08 14:39:07,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6680.00,#
+2023-08-08 14:39:08,453 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:08,453 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:08,453 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:08,453 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:08,453 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:08,453 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:08,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:08,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:08,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:08,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:08,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:08,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:08,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:10,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:10,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:10,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,613 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,613 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,613 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:10,613 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:10,613 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:10,613 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:10,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:11,793 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:11,793 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:11,793 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:11,793 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:11,793 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:11,793 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:12,465 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:12,465 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:12,465 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:12,465 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:12,465 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:12,465 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:12,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:13,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:13,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:13,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:13,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:13,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:13,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:14,501 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,34.00,#
+2023-08-08 14:39:14,501 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,34.00,#
+2023-08-08 14:39:14,501 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:14,501 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:14,501 INFO c.t.e.App [JavaFX Application Thread] Temp: 34.00
+2023-08-08 14:39:14,501 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,34.00,#
+2023-08-08 14:39:14,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:15,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6667.00,#
+2023-08-08 14:39:15,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6667.00,#
+2023-08-08 14:39:15,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:15,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:15,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6667.00
+2023-08-08 14:39:15,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6667.00,#
+2023-08-08 14:39:16,422 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:16,422 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:16,422 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:16,422 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:16,422 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:16,422 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:16,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:16,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:16,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:16,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:16,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:16,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:16,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:18,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:18,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:18,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,601 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,601 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,601 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:18,601 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:18,601 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:18,601 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:18,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:19,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:19,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:19,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:19,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:19,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:19,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:20,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:20,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:20,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:20,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:20,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:20,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:20,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:21,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:21,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:21,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:21,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:21,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:21,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:22,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:22,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:22,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:22,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:22,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:39:22,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:22,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:23,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:39:23,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:39:23,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:23,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:23,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6678.00
+2023-08-08 14:39:23,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:39:24,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:24,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:24,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:24,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:24,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:24,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:24,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:24,937 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:24,937 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:24,937 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:24,937 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:24,937 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:24,937 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:26,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:26,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:26,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,581 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,581 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,581 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:26,581 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:26,581 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:26,581 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:26,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:27,785 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:27,785 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:27,785 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:27,785 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:27,785 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:27,785 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:28,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:28,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:28,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:28,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:28,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:28,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:28,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:29,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:29,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:29,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:29,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:29,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:29,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:30,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:30,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:30,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:30,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:30,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:39:30,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:30,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:31,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6652.00,#
+2023-08-08 14:39:31,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6652.00,#
+2023-08-08 14:39:31,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:31,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:31,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6652.00
+2023-08-08 14:39:31,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6652.00,#
+2023-08-08 14:39:32,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:32,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:32,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:32,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:32,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:32,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:32,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:32,937 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:32,937 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:32,937 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:32,937 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:32,937 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:32,937 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,073 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,073 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,073 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:34,073 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:34,073 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:34,073 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:34,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:34,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:34,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:34,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:35,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:35,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:35,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:35,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:35,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:35,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:36,477 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:36,477 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:36,477 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:36,477 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:36,477 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:36,477 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:36,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:37,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:37,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:37,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:37,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:37,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:37,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:38,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:38,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:38,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:38,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:38,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:39:38,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:38,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:39,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:39:39,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:39:39,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:39,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:39,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6660.00
+2023-08-08 14:39:39,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:39:40,425 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:40,425 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:40,425 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:40,425 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:40,425 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:40,425 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:40,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:40,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:40,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:40,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:40,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:40,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:40,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:42,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:42,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:42,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:42,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:42,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:42,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:42,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:43,793 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:43,793 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:43,793 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:43,793 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:43,793 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:43,793 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:44,477 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:44,477 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:44,477 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:44,477 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:44,477 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:44,477 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:44,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:45,169 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:45,169 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:45,169 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:45,169 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:45,169 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:45,169 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:46,501 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:46,501 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:46,501 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:46,501 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:46,501 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:39:46,501 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:39:46,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:47,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6650.00,#
+2023-08-08 14:39:47,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6650.00,#
+2023-08-08 14:39:47,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:47,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:47,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6650.00
+2023-08-08 14:39:47,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6650.00,#
+2023-08-08 14:39:48,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:48,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:48,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:48,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:48,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:48,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:48,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:48,937 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:48,937 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:48,937 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:48,937 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:48,937 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:48,937 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,097 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,097 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,097 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:50,097 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:50,097 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:50,097 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,581 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,581 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,581 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:50,581 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:50,581 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:50,581 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:50,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:51,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:51,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:51,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:51,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:51,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:51,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:52,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:52,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:52,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:52,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:52,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:52,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:52,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:53,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:53,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:53,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:53,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:53,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:53,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:54,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:39:54,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:39:54,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:54,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:54,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:39:54,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:39:54,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:55,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6665.00,#
+2023-08-08 14:39:55,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6665.00,#
+2023-08-08 14:39:55,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:55,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:55,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6665.00
+2023-08-08 14:39:55,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6665.00,#
+2023-08-08 14:39:56,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:56,422 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:56,422 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:56,422 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:56,422 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:56,422 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:56,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:56,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:56,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:56,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:56,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:56,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:56,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,073 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,073 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,073 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:58,073 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:58,073 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:58,073 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:58,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:58,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:58,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:58,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:39:59,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:59,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:39:59,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:39:59,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:39:59,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:39:59,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:00,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:00,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:00,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:00,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:00,497 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:00,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:00,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:01,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:01,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:01,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:01,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:01,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:01,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:02,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:02,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:02,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:02,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:02,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:02,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:02,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:03,321 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6657.00,#
+2023-08-08 14:40:03,321 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6657.00,#
+2023-08-08 14:40:03,321 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:03,321 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:03,321 INFO c.t.e.App [JavaFX Application Thread] Bat: 6657.00
+2023-08-08 14:40:03,321 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6657.00,#
+2023-08-08 14:40:04,425 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:04,425 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:04,425 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:04,425 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:04,425 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:04,426 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:04,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:04,949 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:04,949 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:04,949 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:04,949 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:04,949 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:04,949 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,077 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,077 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,077 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:06,077 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:06,077 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:06,077 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,585 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,585 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,585 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:06,585 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:06,585 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:06,585 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:06,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:07,793 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:07,793 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:07,793 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:07,793 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:07,793 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:07,793 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:08,477 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:08,477 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:08,477 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:08,477 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:08,477 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:08,477 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:08,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:09,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:09,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:09,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:09,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:09,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:09,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:10,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:10,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:10,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:10,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:10,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:10,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:10,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:11,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6662.00,#
+2023-08-08 14:40:11,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6662.00,#
+2023-08-08 14:40:11,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:11,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:11,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6662.00
+2023-08-08 14:40:11,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6662.00,#
+2023-08-08 14:40:12,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:12,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:12,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:12,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:12,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:12,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:12,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:12,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:12,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:12,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:12,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:12,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:12,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,073 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,073 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,073 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:14,073 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:14,073 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:14,073 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:14,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:14,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:14,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:14,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:15,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:15,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:15,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:15,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:15,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:15,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:16,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:16,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:16,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:16,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:16,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:16,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:16,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:17,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:17,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:17,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:17,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:17,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:17,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:18,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:18,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:18,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:18,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:18,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:18,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:18,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:19,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:40:19,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:40:19,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:19,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:19,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6660.00
+2023-08-08 14:40:19,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6660.00,#
+2023-08-08 14:40:20,429 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:20,429 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:20,429 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:20,429 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:20,429 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:20,429 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:20,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:20,937 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:20,937 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:20,937 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:20,937 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:20,937 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:20,937 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,073 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,073 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,073 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:22,073 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:22,073 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:22,073 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,581 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,581 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,581 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:22,581 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:22,581 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:22,581 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:22,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:23,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:23,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:23,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:23,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:23,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:23,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:24,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:24,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:24,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:24,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:24,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:24,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:24,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:25,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:25,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:25,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:25,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:25,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:25,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:26,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:26,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:26,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:26,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:26,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:26,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:26,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:27,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6665.00,#
+2023-08-08 14:40:27,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6665.00,#
+2023-08-08 14:40:27,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:27,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:27,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6665.00
+2023-08-08 14:40:27,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6665.00,#
+2023-08-08 14:40:28,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:28,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:28,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:28,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:28,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:28,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:28,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:28,937 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:28,937 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:28,937 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:28,937 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:28,937 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:28,937 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:30,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:30,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:30,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:30,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:30,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:30,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:30,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:31,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:31,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:31,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:31,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:31,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:31,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:32,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:32,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:32,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:32,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:32,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:32,470 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:32,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:33,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:33,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:33,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:33,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:33,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:33,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:34,521 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:34,521 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:34,521 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:34,521 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:34,521 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:34,521 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:34,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:35,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6675.00,#
+2023-08-08 14:40:35,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6675.00,#
+2023-08-08 14:40:35,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:35,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:35,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6675.00
+2023-08-08 14:40:35,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6675.00,#
+2023-08-08 14:40:36,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:36,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:36,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:36,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:36,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:36,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:36,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:36,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:36,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:36,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:36,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:36,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:36,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,073 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,073 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,073 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:38,073 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:38,073 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:38,073 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,581 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,581 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,581 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:38,581 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:38,581 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:38,581 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:38,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:39,785 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:39,785 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:39,785 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:39,785 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:39,785 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:39,785 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:40,470 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:40,470 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:40,471 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:40,471 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:40,471 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:40,471 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:40,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:41,189 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:41,189 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:41,189 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:41,189 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:41,189 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:41,189 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:42,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:42,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:42,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:42,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:42,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:42,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:42,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:43,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6685.00,#
+2023-08-08 14:40:43,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6685.00,#
+2023-08-08 14:40:43,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:43,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:43,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6685.00
+2023-08-08 14:40:43,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6685.00,#
+2023-08-08 14:40:44,417 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:44,417 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:44,417 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:44,417 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:44,417 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:44,417 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:44,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:44,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:44,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:44,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:44,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:44,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:44,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,069 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,069 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,069 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:46,069 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:46,069 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:46,069 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,597 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,597 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,597 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:46,597 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:46,597 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:46,597 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:46,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:47,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:47,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:47,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:47,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:47,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:47,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:48,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:48,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:48,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:48,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:48,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:48,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:48,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:49,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:49,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:49,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:49,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:49,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:49,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:50,477 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:40:50,477 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:40:50,477 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:50,477 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:50,477 INFO c.t.e.App [JavaFX Application Thread] Temp: 35.00
+2023-08-08 14:40:50,477 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,35.00,#
+2023-08-08 14:40:50,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:51,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6685.00,#
+2023-08-08 14:40:51,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6685.00,#
+2023-08-08 14:40:51,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:51,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:51,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6685.00
+2023-08-08 14:40:51,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6685.00,#
+2023-08-08 14:40:52,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:52,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:52,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:52,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:52,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:52,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:52,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:52,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:52,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:52,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:52,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:52,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:52,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,073 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,073 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,073 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:54,073 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:54,073 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:54,073 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:54,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:54,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:54,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:54,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:55,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:55,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:55,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:55,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:55,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:55,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:56,469 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:56,469 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:56,469 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:56,469 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:56,469 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:56,469 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:56,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:57,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:57,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:57,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:57,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:57,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:40:57,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:40:58,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:58,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:58,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:58,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:58,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:40:58,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:40:58,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:40:59,313 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6715.00,#
+2023-08-08 14:40:59,313 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6715.00,#
+2023-08-08 14:40:59,313 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:40:59,313 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:40:59,313 INFO c.t.e.App [JavaFX Application Thread] Bat: 6715.00
+2023-08-08 14:40:59,313 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6715.00,#
+2023-08-08 14:41:00,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:00,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:00,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:00,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:00,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:00,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:00,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:00,937 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:00,937 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:00,937 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:00,937 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:00,937 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:00,937 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,077 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,077 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,077 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:02,077 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:02,077 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:02,077 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,577 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,577 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,577 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:02,577 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:02,577 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:02,577 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:02,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:03,789 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:03,789 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:03,789 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:03,789 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:03,789 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:03,789 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:04,477 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:04,477 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:04,477 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:04,477 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:04,477 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:04,477 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:04,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:05,165 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:05,165 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:05,165 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:05,165 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:05,165 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:05,165 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:06,497 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:41:06,497 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:41:06,497 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:06,497 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:06,497 INFO c.t.e.App [JavaFX Application Thread] Temp: 36.00
+2023-08-08 14:41:06,497 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,36.00,#
+2023-08-08 14:41:06,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:07,317 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6698.00,#
+2023-08-08 14:41:07,317 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6698.00,#
+2023-08-08 14:41:07,317 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:07,317 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:07,317 INFO c.t.e.App [JavaFX Application Thread] Bat: 6698.00
+2023-08-08 14:41:07,317 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6698.00,#
+2023-08-08 14:41:08,421 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:08,421 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:08,421 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:08,421 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:08,421 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:08,421 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:08,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:08,941 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:08,941 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:08,941 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:08,941 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:08,941 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:08,941 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,089 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,089 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,089 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:10,089 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:10,089 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:10,089 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,593 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,593 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,593 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:10,593 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:10,593 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:10,593 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:10,619 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:11,793 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:11,793 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:11,793 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:11,793 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:11,793 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:11,793 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:12,473 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:12,473 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:12,473 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:12,473 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:12,473 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:12,473 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:12,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:13,177 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:13,177 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:13,177 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:13,177 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:13,177 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:13,177 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:14,485 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,te,0,0,37.00,#
+2023-08-08 14:41:14,485 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,te,0,0,37.00,#
+2023-08-08 14:41:14,485 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:14,485 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:14,485 INFO c.t.e.App [JavaFX Application Thread] Temp: 37.00
+2023-08-08 14:41:14,485 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,te,0,0,37.00,#
+2023-08-08 14:41:14,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:15,333 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:41:15,333 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:41:15,333 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:15,333 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:15,333 INFO c.t.e.App [JavaFX Application Thread] Bat: 6678.00
+2023-08-08 14:41:15,333 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,ba,0,0,6678.00,#
+2023-08-08 14:41:16,433 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:16,433 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:16,433 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:16,433 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:16,433 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:16,433 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:16,618 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 14:41:16,953 INFO c.t.e.App [JavaFX Application Thread] RemoteDevice: EMS - 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:16,953 INFO c.t.e.App [JavaFX Application Thread] 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 14:41:16,953 INFO c.t.e.App [JavaFX Application Thread] 782184BB228E
+2023-08-08 14:41:16,953 INFO c.t.e.App [JavaFX Application Thread] btAddress: 78:21:84:BB:22:8E
+2023-08-08 14:41:16,953 INFO c.t.e.App [JavaFX Application Thread] Con: 1
+2023-08-08 14:41:16,953 INFO c.t.e.App [JavaFX Application Thread] receive 78:21:84:BB:22:8E,co,0,0,1,#
+2023-08-08 16:20:29,139 INFO c.t.e.App [JavaFX Application Thread] warchdog: 1
+2023-08-08 16:20:29,139 INFO c.t.e.App [JavaFX Application Thread] warchdog: 2
+2023-08-08 16:20:29,139 INFO c.t.e.App [JavaFX Application Thread] warchdog: 3
+2023-08-08 16:20:29,139 INFO c.t.e.App [JavaFX Application Thread] warchdog: 4
+2023-08-08 16:20:29,139 INFO c.t.e.App [JavaFX Application Thread] warchdog: 5
+2023-08-08 16:20:29,139 INFO c.t.e.App [JavaFX Application Thread] warchdog: 6
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 7
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 8
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 9
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 10
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 11
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 12
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 13
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 14
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 15
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 16
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 17
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 18
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 19
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 20
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 21
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 22
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 23
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 24
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 25
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 26
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 27
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 28
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 29
+2023-08-08 16:20:29,140 INFO c.t.e.App [JavaFX Application Thread] warchdog: 30

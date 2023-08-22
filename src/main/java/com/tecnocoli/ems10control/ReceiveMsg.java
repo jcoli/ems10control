@@ -21,6 +21,8 @@ import java.util.Vector;
 public class ReceiveMsg {
     private String temp;
     private String bat;
+    private String cel1;
+    private String cel2;
 
     public ReceiveMsg() {
         this.setBat("0");
@@ -44,6 +46,8 @@ public class ReceiveMsg {
         String add = inMsgSplit[0];
         String fun = inMsgSplit[1];
         Float inBat = 0.0F;
+        Float inCel1 = 0.0F;
+        Float inCel2 = 0.0F;
         Float inTemp = 0.0F;
 
         for (EMSDevice dev : vcEmsDevice){
@@ -63,12 +67,24 @@ public class ReceiveMsg {
             vcEmsDevice.elementAt(0).setBatteryLevel(inBat);
             String strBat = String.format("%.2f", inBat);
             this.setBat(strBat);
-
+        }
+        if (inMsgSplit[1].contains("c1") ){
+            logger.info("Cel1: "+inMsgSplit[4]);
+            inCel1 = Float.valueOf(inMsgSplit[4])/1000;
+            vcEmsDevice.elementAt(0).setBatteryCel1Level(inCel1);
+            String strCel1 = String.format("%.2f", inCel1);
+            this.setCel1(strCel1);
+        }
+        if (inMsgSplit[1].contains("c2") ){
+            logger.info("Cel2: "+inMsgSplit[4]);
+            inCel2 = Float.valueOf(inMsgSplit[4])/1000;
+            vcEmsDevice.elementAt(0).setBatteryCel2Level(inCel2);
+            String strCel2 = String.format("%.2f", inCel2);
+            this.setCel2(strCel2);
         }
         if (inMsgSplit[1].contains("co") ){
             logger.info("Con: "+inMsgSplit[4]);
             connectWatchDog = 0;
-
         }
 
         return connectWatchDog;
@@ -89,6 +105,22 @@ public class ReceiveMsg {
 
     public void setBat(String bat) {
         this.bat = bat;
+    }
+
+    public String getCel1() {
+        return cel1;
+    }
+
+    public void setCel1(String cel1) {
+        this.cel1 = cel1;
+    }
+
+    public String getCel2() {
+        return cel2;
+    }
+
+    public void setCel2(String cel2) {
+        this.cel2 = cel2;
     }
 }
 

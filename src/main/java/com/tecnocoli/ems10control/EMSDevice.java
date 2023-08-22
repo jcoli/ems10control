@@ -31,6 +31,8 @@ public class EMSDevice implements Serializable{
     private String friendlyName;
     private Boolean connectedDevice;
     private Float batteryLevel;
+    private Float batteryCel1Level;
+    private Float batteryCel2Level;
     private Float temperatureLevel;
     private String typeLastUsed;
     private Boolean connected;
@@ -137,6 +139,16 @@ public class EMSDevice implements Serializable{
     public void setOut(PrintWriter out) {
         this.out = out;
     }
+    public Float getBatteryCel1Level() { return batteryCel1Level; }
+    public void setBatteryCel1Level(Float batteryCel1Level) { this.batteryCel1Level = batteryCel1Level;}
+    public Float getBatteryCel2Level() { return batteryCel2Level;}
+
+    public void setBatteryCel2Level(Float batteryCel2Level) { this.batteryCel2Level = batteryCel2Level; }
+
+    public ReceiveMsg getReceiveMsg() { return receiveMsg; }
+
+    public void setReceiveMsg(ReceiveMsg receiveMsg) { this.receiveMsg = receiveMsg; }
+
     @Override
     public String toString() {
         return "EMSDevice{" + "rmDevice=" + rmDevice + ", partnerName=" + partnerName + ", Address=" + addressDevice + ", friendlyName=" + friendlyName + '}';

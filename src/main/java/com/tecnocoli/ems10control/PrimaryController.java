@@ -71,6 +71,10 @@ public class PrimaryController implements Initializable {
     @FXML
     private Label lblBat;
     @FXML
+    private Label lblCel1;
+    @FXML
+    private Label lblCel2;
+    @FXML
     private Label lblAdd;
     @FXML
     private Label lblName;
@@ -245,6 +249,8 @@ public class PrimaryController implements Initializable {
                                 lblAdd.setText(vcEmsDevice.elementAt(0).getAddressDevice());
                                 lblTemp.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getTemperatureLevel()) + "°C");
                                 lblBat.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryLevel()) + "V");
+                                lblCel1.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryCel1Level()) + "V");
+                                lblCel2.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryCel2Level()) + "V");
                             }
                             if (vcEmsDevice.elementAt(0).getBatteryLevel() != null) {
                                 if (vcEmsDevice.elementAt(0).getBatteryLevel() < 6.5) {
