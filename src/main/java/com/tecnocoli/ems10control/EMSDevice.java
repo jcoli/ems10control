@@ -39,6 +39,13 @@ public class EMSDevice implements Serializable{
     private LocalDateTime lastDateUsed;
     private LocalDateTime strongLastDateUsed;
     private ReceiveMsg receiveMsg;
+    private Integer channel1;
+    private Integer channel2;
+    private Integer channel3;
+    private Integer channel4;
+    private Integer channel5;
+    private Integer channel6;
+    private Integer channel7;
 
     public EMSDevice() {
     }
@@ -148,6 +155,70 @@ public class EMSDevice implements Serializable{
     public ReceiveMsg getReceiveMsg() { return receiveMsg; }
 
     public void setReceiveMsg(ReceiveMsg receiveMsg) { this.receiveMsg = receiveMsg; }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public Integer getChannel1() {
+        return channel1;
+    }
+
+    public void setChannel1(Integer channel1) {
+        this.channel1 = channel1;
+    }
+
+    public Integer getChannel2() {
+        return channel2;
+    }
+
+    public void setChannel2(Integer channel2) {
+        this.channel2 = channel2;
+    }
+
+    public Integer getChannel3() {
+        return channel3;
+    }
+
+    public void setChannel3(Integer channel3) {
+        this.channel3 = channel3;
+    }
+
+    public Integer getChannel4() {
+        return channel4;
+    }
+
+    public void setChannel4(Integer channel4) {
+        this.channel4 = channel4;
+    }
+
+    public Integer getChannel5() {
+        return channel5;
+    }
+
+    public void setChannel5(Integer channel5) {
+        this.channel5 = channel5;
+    }
+
+    public Integer getChannel6() {
+        return channel6;
+    }
+
+    public void setChannel6(Integer channel6) {
+        this.channel6 = channel6;
+    }
+
+    public Integer getChannel7() {
+        return channel7;
+    }
+
+    public void setChannel7(Integer channel7) {
+        this.channel7 = channel7;
+    }
 
     @Override
     public String toString() {

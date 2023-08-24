@@ -26,13 +26,11 @@ import java.net.URL;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import javafx.fxml.Initializable;
+import javafx.scene.control.*;
 import javafx.scene.control.Alert.AlertType;
-import javafx.scene.control.Button;
-import javafx.scene.control.TextArea;
-import javafx.scene.control.TextField;
-import javafx.scene.control.Label;
 import javafx.fxml.FXML;
 import javafx.application.Platform;
+import javafx.scene.image.ImageView;
 import javafx.scene.paint.Color;
 import org.apache.logging.log4j.core.pattern.AbstractStyleNameConverter;
 
@@ -58,30 +56,7 @@ public class PrimaryController implements Initializable {
     Boolean btConnected = false;
     Timer tm = new Timer();
 
-    @FXML
-    private TextField txtSend;
-    @FXML
-    private TextField txtAddress;
-    @FXML
-    private TextArea txtAreaScan;
-    @FXML
-    private Label lblConn;
-    @FXML
-    private Label lblTemp;
-    @FXML
-    private Label lblBat;
-    @FXML
-    private Label lblCel1;
-    @FXML
-    private Label lblCel2;
-    @FXML
-    private Label lblAdd;
-    @FXML
-    private Label lblName;
-    @FXML
-    private Button btnRun;
-    @FXML
-    private Button btnDiscon;
+
 
     @FXML
     private void toDiscon() throws IOException{
@@ -274,4 +249,110 @@ public class PrimaryController implements Initializable {
             });
         }
     }
+
+    @FXML
+    private TextField txtSend;
+    @FXML
+    private TextField txtAddress;
+    @FXML
+    private TextArea txtAreaScan;
+    @FXML
+    private Label lblConn;
+    @FXML
+    private Label lblTemp;
+    @FXML
+    private Label lblBat;
+    @FXML
+    private Label lblCel1;
+    @FXML
+    private Label lblCel2;
+    @FXML
+    private Label lblAdd;
+    @FXML
+    private Label lblName;
+    @FXML
+    private Button btnRun;
+    @FXML
+    private Button btnDiscon;
+    @FXML
+    private CheckBox chkCh_1;
+    @FXML
+    private CheckBox chkCh_2;
+    @FXML
+    private CheckBox chkCh_3;
+    @FXML
+    private CheckBox chkCh_4;
+    @FXML
+    private CheckBox chkCh_5;
+    @FXML
+    private CheckBox chkCh_6;
+    @FXML
+    private CheckBox chkCh_7;
+    @FXML
+    private CheckBox chkCh_8;
+    @FXML
+    private Button btnPlusCh_1;
+    @FXML
+    private Button btnPlusCh_2;
+    @FXML
+    private Button btnPlusCh_3;
+    @FXML
+    private Button btnPlusCh_4;
+    @FXML
+    private Button btnPlusCh_5;
+    @FXML
+    private Button btnPlusCh_6;
+    @FXML
+    private Button btnPlusCh_7;
+    @FXML
+    private Button btnPlusCh_8;
+    @FXML
+    private Button btnMinusCh_1;
+    @FXML
+    private Button btnMinusCh_2;
+    @FXML
+    private Button btnMinusCh_3;
+    @FXML
+    private Button btnMinusCh_4;
+    @FXML
+    private Button btnMinusCh_5;
+    @FXML
+    private Button btnMinusCh_6;
+    @FXML
+    private Button btnMinusCh_7;
+    @FXML
+    private Button btnMinusCh_8;
+    @FXML
+    private Label lblIntCh_1;
+    @FXML
+    private Label lblIntCh_2;
+    @FXML
+    private Label lblIntCh_3;
+    @FXML
+    private Label lblIntCh_4;
+    @FXML
+    private Label lblIntCh_5;
+    @FXML
+    private Label lblIntCh_6;
+    @FXML
+    private Label lblIntCh_7;
+    @FXML
+    private Label lblIntCh_8;
+    @FXML
+    private ImageView imgEnCh_1;
+    @FXML
+    private ImageView imgEnCh_2;
+    @FXML
+    private ImageView imgEnCh_3;
+    @FXML
+    private ImageView imgEnCh_4;
+    @FXML
+    private ImageView imgEnCh_5;
+    @FXML
+    private ImageView imgEnCh_6;
+    @FXML
+    private ImageView imgEnCh_7;
+    @FXML
+    private ImageView imgEnCh_8;
+
 }
