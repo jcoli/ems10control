@@ -57,6 +57,7 @@ public class PrimaryController implements Initializable {
     Integer connectWatchDog = 0;
     Boolean btConnected = false;
     Timer tm = new Timer();
+    EMSDeviceControl emsDeviceControl = new EMSDeviceControl();
 
     @FXML
     private void toDiscon() throws IOException{
@@ -116,8 +117,9 @@ public class PrimaryController implements Initializable {
                     btConnected = true;
                     lblConn.setText("Connected");
                     logger.info("Test");
-                    EMSDevice emsDevice1 = new EMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS");
-                    vcEmsDevice.add(emsDevice1);
+//                    EMSDevice emsDevice1 = new EMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS");
+//                    vcEmsDevice.add(emsDevice1);
+                    vcEmsDevice.add(emsDeviceControl.AddEMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS"));
                     vcEmsDevice.elementAt(0).setConnectedDevice(true);
                     countDevices++;
                     this.in = deviceConnection.in;
