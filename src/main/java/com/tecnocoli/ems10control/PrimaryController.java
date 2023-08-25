@@ -36,6 +36,8 @@ import org.apache.logging.log4j.core.pattern.AbstractStyleNameConverter;
 
 import javax.bluetooth.*;
 
+import com.tecnocoli.ems10control.EMSDeviceControl;
+
 /**
  * @author jcoli - Jeferson Coli - Tecnocoli
  * @brief PrimaryController
@@ -55,8 +57,6 @@ public class PrimaryController implements Initializable {
     Integer connectWatchDog = 0;
     Boolean btConnected = false;
     Timer tm = new Timer();
-
-
 
     @FXML
     private void toDiscon() throws IOException{

@@ -7,11 +7,16 @@
 package com.tecnocoli.ems10control;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 import javax.bluetooth.RemoteDevice;
 import java.io.BufferedReader;
 import java.io.PrintWriter;
 import java.time.LocalDateTime;
+
+import com.tecnocoli.ems10control.Channel;
+
 
 /**
  * @author jcoli - Jeferson Coli - Tecnocoli
@@ -39,13 +44,8 @@ public class EMSDevice implements Serializable{
     private LocalDateTime lastDateUsed;
     private LocalDateTime strongLastDateUsed;
     private ReceiveMsg receiveMsg;
-    private Integer channel1;
-    private Integer channel2;
-    private Integer channel3;
-    private Integer channel4;
-    private Integer channel5;
-    private Integer channel6;
-    private Integer channel7;
+    private List<Channel> channels = new ArrayList<>();
+
 
     public EMSDevice() {
     }
@@ -60,6 +60,10 @@ public class EMSDevice implements Serializable{
         this.partnerName = partnerName;
         this.addressDevice = Address;
         this.friendlyName = friendlyName;
+        for (int i = 0; i<8; i++){
+            Channel ch = new Channel(true, true, 10, "Channel "+Integer.toString(i), Integer.toString(i));
+            channels.add(ch);
+        }
     }
 
     public EMSDevice(RemoteDevice rmDevice, String partnerName, String AddressDevice, String friendlyName) {
@@ -67,6 +71,10 @@ public class EMSDevice implements Serializable{
         this.partnerName = partnerName;
         this.addressDevice = AddressDevice;
         this.friendlyName = friendlyName;
+        for (int i = 0; i<8; i++){
+            Channel ch = new Channel(true, true, 10, "Channel "+Integer.toString(i), Integer.toString(i));
+            channels.add(ch);
+        }
     }
     public RemoteDevice getRmDevice() {
         return rmDevice;
@@ -149,75 +157,20 @@ public class EMSDevice implements Serializable{
     public Float getBatteryCel1Level() { return batteryCel1Level; }
     public void setBatteryCel1Level(Float batteryCel1Level) { this.batteryCel1Level = batteryCel1Level;}
     public Float getBatteryCel2Level() { return batteryCel2Level;}
-
     public void setBatteryCel2Level(Float batteryCel2Level) { this.batteryCel2Level = batteryCel2Level; }
-
     public ReceiveMsg getReceiveMsg() { return receiveMsg; }
-
     public void setReceiveMsg(ReceiveMsg receiveMsg) { this.receiveMsg = receiveMsg; }
-
     public Integer getId() {
         return id;
     }
-
     public void setId(Integer id) {
         this.id = id;
     }
-
-    public Integer getChannel1() {
-        return channel1;
+    public List<Channel> getChannels() {
+        return channels;
     }
-
-    public void setChannel1(Integer channel1) {
-        this.channel1 = channel1;
-    }
-
-    public Integer getChannel2() {
-        return channel2;
-    }
-
-    public void setChannel2(Integer channel2) {
-        this.channel2 = channel2;
-    }
-
-    public Integer getChannel3() {
-        return channel3;
-    }
-
-    public void setChannel3(Integer channel3) {
-        this.channel3 = channel3;
-    }
-
-    public Integer getChannel4() {
-        return channel4;
-    }
-
-    public void setChannel4(Integer channel4) {
-        this.channel4 = channel4;
-    }
-
-    public Integer getChannel5() {
-        return channel5;
-    }
-
-    public void setChannel5(Integer channel5) {
-        this.channel5 = channel5;
-    }
-
-    public Integer getChannel6() {
-        return channel6;
-    }
-
-    public void setChannel6(Integer channel6) {
-        this.channel6 = channel6;
-    }
-
-    public Integer getChannel7() {
-        return channel7;
-    }
-
-    public void setChannel7(Integer channel7) {
-        this.channel7 = channel7;
+    public void setChannels(List<Channel> channels) {
+        this.channels = channels;
     }
 
     @Override
