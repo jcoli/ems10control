@@ -25,7 +25,10 @@ import java.net.URL;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+
+import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
+import javafx.scene.Node;
 import javafx.scene.control.*;
 import javafx.scene.control.Alert.AlertType;
 import javafx.fxml.FXML;
@@ -58,6 +61,31 @@ public class PrimaryController implements Initializable {
     Boolean btConnected = false;
     Timer tm = new Timer();
     EMSDeviceControl emsDeviceControl = new EMSDeviceControl();
+
+    @FXML
+    private void toEnable(ActionEvent event) throws IOException{
+        try {
+             emsDeviceControl.enableEMSDeviceChannel(((Node) event.getSource()).getId());
+        }catch ( Exception e){
+            logger.info("toEnable " + e);
+        }
+    }
+    @FXML
+    private void toIncrease(ActionEvent event) throws IOException{
+        try {
+              emsDeviceControl.increaseEMSDeviceChannel(((Node) event.getSource()).getId());
+        }catch ( Exception e){
+            logger.info("toEnable " + e);
+        }
+    }
+    @FXML
+    private void toDecrease(ActionEvent event) throws IOException{
+        try {
+            emsDeviceControl.decreaseEMSDeviceChannel(((Node) event.getSource()).getId());
+        }catch ( Exception e){
+            logger.info("toEnable " + e);
+        }
+    }
 
     @FXML
     private void toDiscon() throws IOException{

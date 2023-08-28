@@ -147,30 +147,30 @@
                                     <Label layoutX="11.0" layoutY="405.0" text="Canal 6" />
                                     <Label layoutX="11.0" layoutY="450.0" text="Canal 7" />
                                     <Label layoutX="11.0" layoutY="495.0" text="Canal 8" />
-                                    <CheckBox fx:id="chkCh_1" layoutX="70.0" layoutY="180.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_2" layoutX="70.0" layoutY="225.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_3" layoutX="70.0" layoutY="270.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_4" layoutX="70.0" layoutY="315.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_5" layoutX="70.0" layoutY="360.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_6" layoutX="70.0" layoutY="405.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_7" layoutX="70.0" layoutY="450.0" mnemonicParsing="false" text="Enable" />
-                                    <CheckBox fx:id="chkCh_8" layoutX="70.0" layoutY="495.0" mnemonicParsing="false" text="Enable" />
-                                    <Button fx:id="btnPlusCh_1" contentDisplay="CENTER" layoutX="150.0" layoutY="180.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_2" contentDisplay="CENTER" layoutX="150.0" layoutY="225.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_3" contentDisplay="CENTER" layoutX="150.0" layoutY="270.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_4" contentDisplay="CENTER" layoutX="150.0" layoutY="315.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_5" contentDisplay="CENTER" layoutX="150.0" layoutY="360.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_6" contentDisplay="CENTER" layoutX="150.0" layoutY="405.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_7" contentDisplay="CENTER" layoutX="150.0" layoutY="450.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnPlusCh_8" contentDisplay="CENTER" layoutX="150.0" layoutY="495.0" mnemonicParsing="false" text="+" />
-                                    <Button fx:id="btnMinusCh_1" contentDisplay="CENTER" layoutX="190.0" layoutY="180.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_2" contentDisplay="CENTER" layoutX="190.0" layoutY="225.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_3" contentDisplay="CENTER" layoutX="190.0" layoutY="270.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_4" contentDisplay="CENTER" layoutX="190.0" layoutY="315.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_5" contentDisplay="CENTER" layoutX="190.0" layoutY="360.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_6" contentDisplay="CENTER" layoutX="190.0" layoutY="405.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_7" contentDisplay="CENTER" layoutX="190.0" layoutY="450.0" mnemonicParsing="false" text="--" />
-                                    <Button fx:id="btnMinusCh_8" contentDisplay="CENTER" layoutX="190.0" layoutY="495.0" mnemonicParsing="false" text="--" />
+                                    <CheckBox fx:id="chkCh_1" layoutX="70.0" layoutY="180.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_2" layoutX="70.0" layoutY="225.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_3" layoutX="70.0" layoutY="270.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_4" layoutX="70.0" layoutY="315.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_5" layoutX="70.0" layoutY="360.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_6" layoutX="70.0" layoutY="405.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_7" layoutX="70.0" layoutY="450.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <CheckBox fx:id="chkCh_8" layoutX="70.0" layoutY="495.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
+                                    <Button fx:id="btnPlusCh_1" contentDisplay="CENTER" layoutX="150.0" layoutY="180.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_2" contentDisplay="CENTER" layoutX="150.0" layoutY="225.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_3" contentDisplay="CENTER" layoutX="150.0" layoutY="270.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_4" contentDisplay="CENTER" layoutX="150.0" layoutY="315.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_5" contentDisplay="CENTER" layoutX="150.0" layoutY="360.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_6" contentDisplay="CENTER" layoutX="150.0" layoutY="405.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_7" contentDisplay="CENTER" layoutX="150.0" layoutY="450.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_8" contentDisplay="CENTER" layoutX="150.0" layoutY="495.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnMinusCh_1" contentDisplay="CENTER" layoutX="190.0" layoutY="180.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_2" contentDisplay="CENTER" layoutX="190.0" layoutY="225.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_3" contentDisplay="CENTER" layoutX="190.0" layoutY="270.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_4" contentDisplay="CENTER" layoutX="190.0" layoutY="315.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_5" contentDisplay="CENTER" layoutX="190.0" layoutY="360.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_6" contentDisplay="CENTER" layoutX="190.0" layoutY="405.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_7" contentDisplay="CENTER" layoutX="190.0" layoutY="450.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
+                                    <Button fx:id="btnMinusCh_8" contentDisplay="CENTER" layoutX="190.0" layoutY="495.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
                                     <Label fx:id="lblIntCh_1" layoutX="230.0" layoutY="180.0" text="35" />
                                     <Label fx:id="lblIntCh_2" layoutX="230.0" layoutY="225.0" text="35" />
                                     <Label fx:id="lblIntCh_3" layoutX="230.0" layoutY="270.0" text="35" />
