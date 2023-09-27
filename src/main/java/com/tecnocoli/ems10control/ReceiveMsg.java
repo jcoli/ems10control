@@ -23,6 +23,7 @@ public class ReceiveMsg {
     private String bat;
     private String cel1;
     private String cel2;
+    private EMSDevice emsDevice;
 
     public ReceiveMsg() {
         this.setBat("0");
@@ -53,7 +54,6 @@ public class ReceiveMsg {
         for (EMSDevice dev : vcEmsDevice){
             logger.info(dev.getAddressDevice());
         }
-
         logger.info("btAddress: "+inMsgSplit[0]);
         if (inMsgSplit[1].contains("te") ){
             logger.info("Temp: "+inMsgSplit[4]);
@@ -94,31 +94,24 @@ public class ReceiveMsg {
     public String getTemp() {
         return temp;
     }
-
     public void setTemp(String temp) {
         this.temp = temp;
     }
-
     public String getBat() {
         return bat;
     }
-
     public void setBat(String bat) {
         this.bat = bat;
     }
-
     public String getCel1() {
         return cel1;
     }
-
     public void setCel1(String cel1) {
         this.cel1 = cel1;
     }
-
     public String getCel2() {
         return cel2;
     }
-
     public void setCel2(String cel2) {
         this.cel2 = cel2;
     }
