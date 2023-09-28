@@ -36,38 +36,46 @@ public class EMSDeviceControl {
         vcEmsDevice.add(ems);
         return ems;
     }
-    public void enableEMSDeviceChannel(int id_ch, int ems_device, boolean ch_actived){
+    public String enableEMSDeviceChannel(int id_ch, int ems_device, boolean ch_actived){
         logger.info("ENABLEeEMSDeviceChannel " + id_ch + " - "+ ems_device + " - "+ ch_actived);
         List<Channel> channels = vcEmsDevice.elementAt(ems_device).getChannels();
         channels.get(id_ch).setActived(ch_actived);
+        String msg;
+        if (ch_actived){
+            msg = "7,"+ ems_device+","+id_ch+",1,#";
+        }else{
+            msg = "7,"+ ems_device+","+id_ch+",0,#";
+        }
+        return msg;
     }
-    public void increaseEMSDeviceChannel(int id_ch, int ems_device){
-        logger.info("increaseEMSDeviceChannel " + id_ch + " - "+ ems_device);
+    public String increaseEMSDeviceChannel(int id_ch, int ems_device){
+//        logger.info("increaseEMSDeviceChannel " + id_ch + " - "+ ems_device);
         List<Channel> channels = vcEmsDevice.elementAt(ems_device).getChannels();
         int intensity = channels.get(id_ch).getIntensity();
+        logger.info("INCREASEEMSDeviceChannel " + id_ch + " - "+ ems_device+ " - "+intensity);
         intensity++;
         if (intensity>25){
             intensity = 25;
         }
         channels.get(id_ch).setIntensity(intensity);
         vcEmsDevice.elementAt(ems_device).setChannels(channels);
-
-        logger.info("increaseEMSDeviceChannel " + id_ch);
-
+        String msg;
+        msg = "8,"+ ems_device+","+id_ch+","+intensity+",#";
+        return msg;
     }
-    public void decreaseEMSDeviceChannel(int id_ch, int ems_device){
+    public String decreaseEMSDeviceChannel(int id_ch, int ems_device){
         logger.info("decreaseEMSDeviceChannel " + id_ch + " - "+ ems_device);
-
         List<Channel> channels = vcEmsDevice.elementAt(ems_device).getChannels();
         int intensity = channels.get(id_ch).getIntensity();
+        logger.info("DECREASEEMSDeviceChannel " + id_ch + " - "+ ems_device+ " - "+intensity);
         intensity--;
         if (intensity<0){
             intensity = 0;
         }
         channels.get(id_ch).setIntensity(intensity);
         vcEmsDevice.elementAt(ems_device).setChannels(channels);
-
-        logger.info("decreaseEMSDeviceChannel " + id_ch);
-
+        String msg;
+        msg = "8,"+ ems_device+","+id_ch+","+intensity+",#";
+        return msg;
     }
 }

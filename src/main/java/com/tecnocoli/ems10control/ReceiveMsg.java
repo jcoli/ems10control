@@ -43,7 +43,7 @@ public class ReceiveMsg {
 //        for (String x : inMsgSplit){
 //            logger.info("split: "+x);
 //        }
-        logger.info(s);
+//        logger.info(s);
         String add = inMsgSplit[0];
         String fun = inMsgSplit[1];
         Float inBat = 0.0F;
@@ -51,39 +51,39 @@ public class ReceiveMsg {
         Float inCel2 = 0.0F;
         Float inTemp = 0.0F;
 
-        for (EMSDevice dev : vcEmsDevice){
-            logger.info(dev.getAddressDevice());
-        }
-        logger.info("btAddress: "+inMsgSplit[0]);
+//        for (EMSDevice dev : vcEmsDevice){
+//            logger.info(dev.getAddressDevice());
+//        }
+//        logger.info("btAddress: "+inMsgSplit[0]);
         if (inMsgSplit[1].contains("te") ){
-            logger.info("Temp: "+inMsgSplit[4]);
+//            logger.info("Temp: "+inMsgSplit[4]);
             inTemp = Float.valueOf(inMsgSplit[4]);
             vcEmsDevice.elementAt(0).setTemperatureLevel(inTemp);
             this.setTemp(inMsgSplit[4]);
         }
         if (inMsgSplit[1].contains("ba") ){
-            logger.info("Bat: "+inMsgSplit[4]);
+//            logger.info("Bat: "+inMsgSplit[4]);
             inBat = Float.valueOf(inMsgSplit[4])/1000;
             vcEmsDevice.elementAt(0).setBatteryLevel(inBat);
             String strBat = String.format("%.2f", inBat);
             this.setBat(strBat);
         }
         if (inMsgSplit[1].contains("c1") ){
-            logger.info("Cel1: "+inMsgSplit[4]);
+//            logger.info("Cel1: "+inMsgSplit[4]);
             inCel1 = Float.valueOf(inMsgSplit[4])/1000;
             vcEmsDevice.elementAt(0).setBatteryCel1Level(inCel1);
             String strCel1 = String.format("%.2f", inCel1);
             this.setCel1(strCel1);
         }
         if (inMsgSplit[1].contains("c2") ){
-            logger.info("Cel2: "+inMsgSplit[4]);
+//            logger.info("Cel2: "+inMsgSplit[4]);
             inCel2 = Float.valueOf(inMsgSplit[4])/1000;
             vcEmsDevice.elementAt(0).setBatteryCel2Level(inCel2);
             String strCel2 = String.format("%.2f", inCel2);
             this.setCel2(strCel2);
         }
         if (inMsgSplit[1].contains("co") ){
-            logger.info("Con: "+inMsgSplit[4]);
+//            logger.info("Con: "+inMsgSplit[4]);
             connectWatchDog = 0;
         }
 

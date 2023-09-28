@@ -68,24 +68,33 @@ public class PrimaryController implements Initializable {
             switch (chk.getId()){
                 case "chkCh_1":
                     ch_enabled =  chkCh_1.isSelected();
+                    break;
                 case "chkCh_2":
                     ch_enabled =  chkCh_2.isSelected();
+                    break;
                 case "chkCh_3":
                     ch_enabled =  chkCh_3.isSelected();
+                    break;
                 case "chkCh_4":
                     ch_enabled =  chkCh_4.isSelected();
+                    break;
                 case "chkCh_5":
                     ch_enabled =  chkCh_5.isSelected();
+                    break;
                 case "chkCh_6":
                     ch_enabled =  chkCh_6.isSelected();
+                    break;
                 case "chkCh_7":
                     ch_enabled =  chkCh_7.isSelected();
+                    break;
                 case "chkCh_8":
                     ch_enabled =  chkCh_8.isSelected();
+                    break;
             }
-
-            boolean ch_actived = true;
-            emsDeviceControl.enableEMSDeviceChannel(id_ch, 0, ch_enabled);
+            logger.info(chk.getId()+" - " + ch_enabled);
+            String msg;
+            msg = emsDeviceControl.enableEMSDeviceChannel(id_ch, 0, ch_enabled);
+            sendMsg(msg);
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -93,9 +102,11 @@ public class PrimaryController implements Initializable {
     @FXML
     private void toIncrease(ActionEvent event) throws IOException{
         try {
-             String id = (((Node) event.getSource()).getId());
-             int id_ch = Integer.parseInt(id.substring(id.length() -1))-1;
-             emsDeviceControl.increaseEMSDeviceChannel(id_ch, 0);
+            String id = (((Node) event.getSource()).getId());
+            int id_ch = Integer.parseInt(id.substring(id.length() -1))-1;
+            String msg;
+            msg = emsDeviceControl.increaseEMSDeviceChannel(id_ch, 0);
+            sendMsg(msg);
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -105,7 +116,9 @@ public class PrimaryController implements Initializable {
         try {
             String id = (((Node) event.getSource()).getId());
             int id_ch = Integer.parseInt(id.substring(id.length() -1))-1;
-            emsDeviceControl.decreaseEMSDeviceChannel(id_ch, 0);
+            String msg;
+            msg = emsDeviceControl.decreaseEMSDeviceChannel(id_ch, 0);
+            sendMsg(msg);
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -177,7 +190,7 @@ public class PrimaryController implements Initializable {
                     this.in = deviceConnection.in;
                     this.out = deviceConnection.out;
                     (new streamPoller()).start();
-                    tm.scheduleAtFixedRate(new subtimer(), 0,2000l);
+                    tm.scheduleAtFixedRate(new subtimer(), 0,5000l);
                     String s = ("co,0,0,1,#");
                     sendMsg(s);
                 }
@@ -209,12 +222,12 @@ public class PrimaryController implements Initializable {
     }
 
     public void recMsg(String s) {
-        if (debug) {
-            logger.info("RemoteDevice: " + deviceConnection.sppClient.partnerName + " - " + s);
-        }
+//        if (debug) {
+//            logger.info("RemoteDevice: " + deviceConnection.sppClient.partnerName + " - " + s);
+//        }
         int ret = receiveMsg.inMsg(s, emsDeviceControl.vcEmsDevice, connectWatchDog);
         connectWatchDog = ret;
-        logger.info("receive " + s);
+//        logger.info("receive " + s);
     }
 
     @FXML
@@ -274,7 +287,7 @@ public class PrimaryController implements Initializable {
                             connectWatchDog++;
                             String s = ("co," + "0,0,1,#");
                             sendMsg(s);
-                            logger.info("warchdog: "+connectWatchDog);
+                            logger.info("watchdog: "+connectWatchDog);
                             if (!emsDeviceControl.vcEmsDevice.isEmpty()) {
 //                              lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
                                 lblAdd.setText(emsDeviceControl.vcEmsDevice.elementAt(0).getAddressDevice());

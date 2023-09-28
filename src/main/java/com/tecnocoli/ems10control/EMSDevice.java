@@ -45,6 +45,7 @@ public class EMSDevice implements Serializable{
     private LocalDateTime strongLastDateUsed;
     private ReceiveMsg receiveMsg;
     private List<Channel> channels = new ArrayList<>();
+    private DeviceConnection deviceConnection;
 
 
     public EMSDevice() {
@@ -72,106 +73,52 @@ public class EMSDevice implements Serializable{
         this.addressDevice = AddressDevice;
         this.friendlyName = friendlyName;
         for (int i = 0; i<8; i++){
-            Channel ch = new Channel(true, true, 10, "Channel "+Integer.toString(i), Integer.toString(i));
+            Channel ch = new Channel(false, false, 0, "Channel "+Integer.toString(i), Integer.toString(i));
             channels.add(ch);
         }
     }
-    public RemoteDevice getRmDevice() {
-        return rmDevice;
-    }
-    public void setRmDevice(RemoteDevice rmDevice) {
-        this.rmDevice = rmDevice;
-    }
-    public String getPartnerName() {
-        return partnerName;
-    }
-    public void setPartnerName(String partnerName) {
-        this.partnerName = partnerName;
-    }
-    public String getAddressDevice() {
-        return addressDevice;
-    }
-    public void setAddressDevice(String Address) {
-        this.addressDevice = Address;
-    }
-    public String getFriendlyName() {
-        return friendlyName;
-    }
-    public void setFriendlyName(String friendlyName) {
-        this.friendlyName = friendlyName;
-    }
-    public LocalDateTime getLastDateUsed() {
-        return lastDateUsed;
-    }
-    public void setLastDateUsed(LocalDateTime lastDateUsed) {
-        this.lastDateUsed = lastDateUsed;
-    }
-    public String getTypeLastUsed() {
-        return typeLastUsed;
-    }
-    public void setTypeLastUsed(String typeLastUsed) {
-        this.typeLastUsed = typeLastUsed;
-    }
-    public LocalDateTime getStrongLastDateUsed() {
-        return strongLastDateUsed;
-    }
-    public void setStrongLastDateUsed(LocalDateTime StrongLastDateUsed) {
-        this.strongLastDateUsed = StrongLastDateUsed;
-    }
-    public Boolean getConnectedDevice() {
-        return connectedDevice;
-    }
-    public void setConnectedDevice(Boolean connectedDevice) {
-        this.connectedDevice = connectedDevice;
-    }
-    public Float getBatteryLevel() {
-        return batteryLevel;
-    }
-    public void setBatteryLevel(Float batteryLevel) {
-        this.batteryLevel = batteryLevel;
-    }
-    public Float getTemperatureLevel() {
-        return temperatureLevel;
-    }
-    public void setTemperatureLevel(Float temperatureLevel) {
-        this.temperatureLevel = temperatureLevel;
-    }
-    public Boolean getConnected() {
-        return connected;
-    }
-    public void setConnected(Boolean connected) {
-        this.connected = connected;
-    }
-    public BufferedReader getIn() {
-        return in;
-    }
-    public void setIn(BufferedReader in) {
-        this.in = in;
-    }
-    public PrintWriter getOut() {
-        return out;
-    }
-    public void setOut(PrintWriter out) {
-        this.out = out;
-    }
+
+
+
+    public RemoteDevice getRmDevice() { return rmDevice; }
+    public void setRmDevice(RemoteDevice rmDevice) { this.rmDevice = rmDevice; }
+    public String getPartnerName() { return partnerName; }
+    public void setPartnerName(String partnerName) { this.partnerName = partnerName; }
+    public String getAddressDevice() { return addressDevice; }
+    public void setAddressDevice(String Address) { this.addressDevice = Address; }
+    public String getFriendlyName() { return friendlyName; }
+    public void setFriendlyName(String friendlyName) { this.friendlyName = friendlyName; }
+    public LocalDateTime getLastDateUsed() { return lastDateUsed; }
+    public void setLastDateUsed(LocalDateTime lastDateUsed) { this.lastDateUsed = lastDateUsed; }
+    public String getTypeLastUsed() { return typeLastUsed; }
+    public void setTypeLastUsed(String typeLastUsed) { this.typeLastUsed = typeLastUsed; }
+    public LocalDateTime getStrongLastDateUsed() { return strongLastDateUsed; }
+    public void setStrongLastDateUsed(LocalDateTime StrongLastDateUsed) { this.strongLastDateUsed = StrongLastDateUsed; }
+    public Boolean getConnectedDevice() { return connectedDevice; }
+    public void setConnectedDevice(Boolean connectedDevice) { this.connectedDevice = connectedDevice; }
+    public Float getBatteryLevel() { return batteryLevel; }
+    public void setBatteryLevel(Float batteryLevel) { this.batteryLevel = batteryLevel; }
+    public Float getTemperatureLevel() { return temperatureLevel; }
+    public void setTemperatureLevel(Float temperatureLevel) { this.temperatureLevel = temperatureLevel; }
+    public Boolean getConnected() { return connected; }
+    public void setConnected(Boolean connected) { this.connected = connected; }
+    public BufferedReader getIn() { return in; }
+    public void setIn(BufferedReader in) { this.in = in;  }
+    public PrintWriter getOut() {  return out;  }
+    public void setOut(PrintWriter out) {  this.out = out;    }
     public Float getBatteryCel1Level() { return batteryCel1Level; }
     public void setBatteryCel1Level(Float batteryCel1Level) { this.batteryCel1Level = batteryCel1Level;}
     public Float getBatteryCel2Level() { return batteryCel2Level;}
     public void setBatteryCel2Level(Float batteryCel2Level) { this.batteryCel2Level = batteryCel2Level; }
     public ReceiveMsg getReceiveMsg() { return receiveMsg; }
     public void setReceiveMsg(ReceiveMsg receiveMsg) { this.receiveMsg = receiveMsg; }
-    public Integer getId() {
-        return id;
-    }
-    public void setId(Integer id) {
-        this.id = id;
-    }
-    public List<Channel> getChannels() {
-        return channels;
-    }
-    public void setChannels(List<Channel> channels) {
-        this.channels = channels;
-    }
+    public Integer getId() { return id; }
+    public void setId(Integer id) { this.id = id; }
+    public List<Channel> getChannels() { return channels; }
+    public void setChannels(List<Channel> channels) { this.channels = channels; }
+    public DeviceConnection getDeviceConnection() { return deviceConnection; }
+
+    public void setDeviceConnection(DeviceConnection deviceConnection) { this.deviceConnection = deviceConnection; }
 
     @Override
     public String toString() {
