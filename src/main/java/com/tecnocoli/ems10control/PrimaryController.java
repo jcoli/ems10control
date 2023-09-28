@@ -14,11 +14,7 @@ import java.io.BufferedReader;
 import java.io.PrintWriter;
 import java.io.IOException;
 
-import java.util.Vector;
-import java.util.ResourceBundle;
-import java.util.Date;
-import java.util.Timer;
-import java.util.TimerTask;
+import java.util.*;
 import java.util.Timer;
 
 import java.net.URL;
@@ -55,7 +51,7 @@ public class PrimaryController implements Initializable {
     ReceiveMsg receiveMsg = new ReceiveMsg();
     SPPClient sppClient = new SPPClient();
     DeviceConnection deviceConnection = new DeviceConnection(newMsg);
-    Vector<EMSDevice> vcEmsDevice = new Vector<>(5);
+//    Vector<EMSDevice> vcEmsDevice = new Vector<>(5);
     Integer countDevices = 0;
     Integer connectWatchDog = 0;
     Boolean btConnected = false;
@@ -65,7 +61,31 @@ public class PrimaryController implements Initializable {
     @FXML
     private void toEnable(ActionEvent event) throws IOException{
         try {
-             emsDeviceControl.enableEMSDeviceChannel(((Node) event.getSource()).getId());
+            String id = (((Node) event.getSource()).getId());
+            final Node chk = (Node)event.getSource();
+            int id_ch = Integer.parseInt(id.substring(id.length() -1))-1;
+            boolean ch_enabled = false;
+            switch (chk.getId()){
+                case "chkCh_1":
+                    ch_enabled =  chkCh_1.isSelected();
+                case "chkCh_2":
+                    ch_enabled =  chkCh_2.isSelected();
+                case "chkCh_3":
+                    ch_enabled =  chkCh_3.isSelected();
+                case "chkCh_4":
+                    ch_enabled =  chkCh_4.isSelected();
+                case "chkCh_5":
+                    ch_enabled =  chkCh_5.isSelected();
+                case "chkCh_6":
+                    ch_enabled =  chkCh_6.isSelected();
+                case "chkCh_7":
+                    ch_enabled =  chkCh_7.isSelected();
+                case "chkCh_8":
+                    ch_enabled =  chkCh_8.isSelected();
+            }
+
+            boolean ch_actived = true;
+            emsDeviceControl.enableEMSDeviceChannel(id_ch, 0, ch_enabled);
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -73,7 +93,9 @@ public class PrimaryController implements Initializable {
     @FXML
     private void toIncrease(ActionEvent event) throws IOException{
         try {
-              emsDeviceControl.increaseEMSDeviceChannel(((Node) event.getSource()).getId());
+             String id = (((Node) event.getSource()).getId());
+             int id_ch = Integer.parseInt(id.substring(id.length() -1))-1;
+             emsDeviceControl.increaseEMSDeviceChannel(id_ch, 0);
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -81,7 +103,9 @@ public class PrimaryController implements Initializable {
     @FXML
     private void toDecrease(ActionEvent event) throws IOException{
         try {
-            emsDeviceControl.decreaseEMSDeviceChannel(((Node) event.getSource()).getId());
+            String id = (((Node) event.getSource()).getId());
+            int id_ch = Integer.parseInt(id.substring(id.length() -1))-1;
+            emsDeviceControl.decreaseEMSDeviceChannel(id_ch, 0);
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -147,8 +171,8 @@ public class PrimaryController implements Initializable {
                     logger.info("Test");
 //                    EMSDevice emsDevice1 = new EMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS");
 //                    vcEmsDevice.add(emsDevice1);
-                    vcEmsDevice.add(emsDeviceControl.AddEMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS"));
-                    vcEmsDevice.elementAt(0).setConnectedDevice(true);
+                    emsDeviceControl.vcEmsDevice.add(emsDeviceControl.AddEMSDevice(rd, deviceConnection.sppClient.partnerName, rd.getBluetoothAddress(), "EMS"));
+                    emsDeviceControl.vcEmsDevice.elementAt(0).setConnectedDevice(true);
                     countDevices++;
                     this.in = deviceConnection.in;
                     this.out = deviceConnection.out;
@@ -188,7 +212,7 @@ public class PrimaryController implements Initializable {
         if (debug) {
             logger.info("RemoteDevice: " + deviceConnection.sppClient.partnerName + " - " + s);
         }
-        int ret = receiveMsg.inMsg(s, vcEmsDevice, connectWatchDog);
+        int ret = receiveMsg.inMsg(s, emsDeviceControl.vcEmsDevice, connectWatchDog);
         connectWatchDog = ret;
         logger.info("receive " + s);
     }
@@ -213,6 +237,8 @@ public class PrimaryController implements Initializable {
     public void initialize(URL url, ResourceBundle rb) {
 //        Constraints.setTextFieldNull(txtSend);
     }
+
+
 
     class streamPoller extends Thread {
         public void run() {
@@ -249,16 +275,16 @@ public class PrimaryController implements Initializable {
                             String s = ("co," + "0,0,1,#");
                             sendMsg(s);
                             logger.info("warchdog: "+connectWatchDog);
-                            if (!vcEmsDevice.isEmpty()) {
-//                                lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
-                                lblAdd.setText(vcEmsDevice.elementAt(0).getAddressDevice());
-                                lblTemp.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getTemperatureLevel()) + "°C");
-                                lblBat.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryLevel()) + "V");
-                                lblCel1.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryCel1Level()) + "V");
-                                lblCel2.setText(String.format("%.2f", vcEmsDevice.elementAt(0).getBatteryCel2Level()) + "V");
+                            if (!emsDeviceControl.vcEmsDevice.isEmpty()) {
+//                              lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
+                                lblAdd.setText(emsDeviceControl.vcEmsDevice.elementAt(0).getAddressDevice());
+                                lblTemp.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getTemperatureLevel()) + "°C");
+                                lblBat.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel()) + "V");
+                                lblCel1.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryCel1Level()) + "V");
+                                lblCel2.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryCel2Level()) + "V");
                             }
-                            if (vcEmsDevice.elementAt(0).getBatteryLevel() != null) {
-                                if (vcEmsDevice.elementAt(0).getBatteryLevel() < 6.5) {
+                            if (emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel() != null) {
+                                if (emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel() < 6.5) {
                                     lblBat.setTextFill(Color.ORANGERED);
                                 } else {
                                     lblBat.setTextFill(Color.BLACK);
@@ -266,9 +292,9 @@ public class PrimaryController implements Initializable {
                             }
                             if (connectWatchDog>=30){
                                 btConnected = false;
-                                vcEmsDevice.elementAt(0).setConnectedDevice(false);
+                                emsDeviceControl.vcEmsDevice.elementAt(0).setConnectedDevice(false);
                                 lblConn.setText("Disconnected");
-                                RemoteDevice rd = vcEmsDevice.elementAt(0).getRmDevice();
+                                RemoteDevice rd = emsDeviceControl.vcEmsDevice.elementAt(0).getRmDevice();
 
                             }
                         }
