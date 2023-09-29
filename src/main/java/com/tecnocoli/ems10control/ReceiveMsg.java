@@ -82,7 +82,7 @@ public class ReceiveMsg {
             String strCel2 = String.format("%.2f", inCel2);
             this.setCel2(strCel2);
         }
-        if (inMsgSplit[1].contains("co") ){
+        if (inMsgSplit[1].contains("0") ){
 //            logger.info("Con: "+inMsgSplit[4]);
             connectWatchDog = 0;
         }

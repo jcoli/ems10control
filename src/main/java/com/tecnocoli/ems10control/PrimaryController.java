@@ -130,7 +130,7 @@ public class PrimaryController implements Initializable {
             if (btConnected){
                 deviceConnection.Disconnect();
                 lblConn.setText("Disconnected");
-                String s = ("co,0,0,0,#");
+                String s = ("0,0,0,0,#");
                 sendMsg(s);
             }
         }catch ( IOException e){
@@ -141,11 +141,11 @@ public class PrimaryController implements Initializable {
     private void toRun() throws IOException{
         try {
             if (btConnected){
-                String s = ("ru,0,0,1,#");
+                String s = ("3,0,0,1,#");
                 sendMsg(s);
                 logger.info("toRun ");
             }else{
-                String s = ("ru,0,0,0,#");
+                String s = ("3,0,0,0,#");
                 sendMsg(s);
                 logger.info("not Run " );
             }
@@ -191,7 +191,7 @@ public class PrimaryController implements Initializable {
                     this.out = deviceConnection.out;
                     (new streamPoller()).start();
                     tm.scheduleAtFixedRate(new subtimer(), 0,5000l);
-                    String s = ("co,0,0,1,#");
+                    String s = ("0,0,0,1,#");
                     sendMsg(s);
                 }
             }else{
@@ -285,7 +285,7 @@ public class PrimaryController implements Initializable {
                     {
                         if (btConnected) {
                             connectWatchDog++;
-                            String s = ("co," + "0,0,1,#");
+                            String s = ("0," + "0,0,1,#");
                             sendMsg(s);
                             logger.info("watchdog: "+connectWatchDog);
                             if (!emsDeviceControl.vcEmsDevice.isEmpty()) {
