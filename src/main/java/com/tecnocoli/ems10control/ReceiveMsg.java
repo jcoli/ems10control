@@ -43,7 +43,8 @@ public class ReceiveMsg {
 //        for (String x : inMsgSplit){
 //            logger.info("split: "+x);
 //        }
-//        logger.info(s);
+        logger.info("rec");
+        logger.info(s);
         String add = inMsgSplit[0];
         String fun = inMsgSplit[1];
         Float inBat = 0.0F;

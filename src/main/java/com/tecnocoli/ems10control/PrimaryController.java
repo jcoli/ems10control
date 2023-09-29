@@ -287,7 +287,7 @@ public class PrimaryController implements Initializable {
                             connectWatchDog++;
                             String s = ("0," + "0,0,1,#");
                             sendMsg(s);
-                            logger.info("watchdog: "+connectWatchDog);
+//                            logger.info("watchdog: "+connectWatchDog);
                             if (!emsDeviceControl.vcEmsDevice.isEmpty()) {
 //                              lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
                                 lblAdd.setText(emsDeviceControl.vcEmsDevice.elementAt(0).getAddressDevice());
