@@ -78,4 +78,19 @@ public class EMSDeviceControl {
         msg = "8,"+ ems_device+","+id_ch+","+intensity+",#";
         return msg;
     }
+
+    public String runEMSDeviceChannel(int id_ch, int ems_device) {
+        String msg = msg = "3," + ems_device + "," + "0," + "0" + ",#";
+        
+        if (vcEmsDevice.elementAt(ems_device).getDeviceRunning()){
+            vcEmsDevice.elementAt(ems_device).setDeviceRunning(false);
+            msg = "3," + ems_device + "," + "0," + "0" + ",#";
+        }
+        else{
+            vcEmsDevice.elementAt(ems_device).setDeviceRunning(true);
+            msg = "3,"+ ems_device+","+"0,"+"1"+",#";
+        }
+
+        return msg;
+    }
 }

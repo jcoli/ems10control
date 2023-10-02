@@ -47,6 +47,7 @@ public class EMSDevice implements Serializable{
     private List<Channel> channels = new ArrayList<>();
     private DeviceConnection deviceConnection;
     private Training training;
+    private Boolean deviceRunning;
 
 
     public EMSDevice() {
@@ -121,6 +122,8 @@ public class EMSDevice implements Serializable{
     public void setDeviceConnection(DeviceConnection deviceConnection) { this.deviceConnection = deviceConnection; }
     public Training getTraining() { return training; }
     public void setTraining(Training training) { this.training = training; }
+    public Boolean getDeviceRunning() { return deviceRunning; }
+    public void setDeviceRunning(Boolean deviceRunning) { this.deviceRunning = deviceRunning; }
 
     @Override
     public String toString() {
