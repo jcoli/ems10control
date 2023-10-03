@@ -10,9 +10,7 @@ import static com.tecnocoli.ems10control.App.logger;
 import static com.tecnocoli.ems10control.App.debug;
 import com.tecnocoli.ems10control.util.Alerts;
 
-import java.io.BufferedReader;
-import java.io.PrintWriter;
-import java.io.IOException;
+import java.io.*;
 
 import java.util.*;
 import java.util.Timer;
@@ -29,6 +27,7 @@ import javafx.scene.control.*;
 import javafx.scene.control.Alert.AlertType;
 import javafx.fxml.FXML;
 import javafx.application.Platform;
+import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.paint.Color;
 import org.apache.logging.log4j.core.pattern.AbstractStyleNameConverter;
@@ -139,19 +138,13 @@ public class PrimaryController implements Initializable {
     }
     @FXML
     private void toRun() throws IOException{
-        try {
-            if (btConnected){
-                String s = ("3,0,0,1,#");
-                sendMsg(s);
+
+            if (btConnected) {
+                String msg = emsDeviceControl.runEMSDeviceChannel(0);
                 logger.info("toRun ");
-            }else{
-                String s = ("3,0,0,0,#");
-                sendMsg(s);
-                logger.info("not Run " );
+                sendMsg(msg);
             }
-        }catch ( IOException e){
-            logger.info("toRun " + e);
-        }
+
     }
 
     @FXML
@@ -310,6 +303,13 @@ public class PrimaryController implements Initializable {
                                 RemoteDevice rd = emsDeviceControl.vcEmsDevice.elementAt(0).getRmDevice();
 
                             }
+                            if (emsDeviceControl.vcEmsDevice.elementAt(0).getDeviceRunning()){
+//                              imgRun.setImage(led_on);
+                                logger.info("run on ");
+                            }else{
+                                imgRun.setImage(led_off);
+                                logger.info("run off ");
+                            }
                         }
                     }
                 } catch (IOException e) {
@@ -423,5 +423,10 @@ public class PrimaryController implements Initializable {
     private ImageView imgEnCh_7;
     @FXML
     private ImageView imgEnCh_8;
+    @FXML
+    private ImageView imgRun;
+
+    Image led_on = new Image(new File("led-red-on.png").toURI().toString());
+    Image led_off = new Image(new File("green-led-on.png").toURI().toString());
 
 }

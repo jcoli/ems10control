@@ -79,16 +79,19 @@ public class EMSDeviceControl {
         return msg;
     }
 
-    public String runEMSDeviceChannel(int id_ch, int ems_device) {
-        String msg = msg = "3," + ems_device + "," + "0," + "0" + ",#";
-        
-        if (vcEmsDevice.elementAt(ems_device).getDeviceRunning()){
+    public String runEMSDeviceChannel(int ems_device) {
+        String msg = "3," + ems_device + "," + "0," + "0" + ",#";
+
+        if (vcEmsDevice.elementAt(0).getDeviceRunning()){
             vcEmsDevice.elementAt(ems_device).setDeviceRunning(false);
+            vcEmsDevice.elementAt(ems_device).getDeviceRunning();
             msg = "3," + ems_device + "," + "0," + "0" + ",#";
+            logger.info("toRun 2 ");
         }
         else{
-            vcEmsDevice.elementAt(ems_device).setDeviceRunning(true);
+            vcEmsDevice.elementAt(0).setDeviceRunning(true);
             msg = "3,"+ ems_device+","+"0,"+"1"+",#";
+            logger.info("toRun 3");
         }
 
         return msg;
