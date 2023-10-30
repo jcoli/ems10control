@@ -156,7 +156,7 @@
                                     <CheckBox fx:id="chkCh_7" layoutX="70.0" layoutY="450.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
                                     <CheckBox fx:id="chkCh_8" layoutX="70.0" layoutY="495.0" mnemonicParsing="false" onAction="#toEnable" text="Enable" />
                                     <Button fx:id="btnPlusCh_1" contentDisplay="CENTER" layoutX="189.0" layoutY="180.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
-                                    <Button fx:id="btnPlusCh_2" contentDisplay="CENTER" layoutX="189.0" layoutY="228.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
+                                    <Button fx:id="btnPlusCh_2" contentDisplay="CENTER" layoutX="189.0" layoutY="225.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
                                     <Button fx:id="btnPlusCh_3" contentDisplay="CENTER" layoutX="189.0" layoutY="271.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
                                     <Button fx:id="btnPlusCh_4" contentDisplay="CENTER" layoutX="189.0" layoutY="312.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
                                     <Button fx:id="btnPlusCh_5" contentDisplay="CENTER" layoutX="189.0" layoutY="357.0" mnemonicParsing="false" onAction="#toIncrease" text="+" />
@@ -171,14 +171,14 @@
                                     <Button fx:id="btnMinusCh_6" contentDisplay="CENTER" layoutX="150.0" layoutY="402.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
                                     <Button fx:id="btnMinusCh_7" contentDisplay="CENTER" layoutX="150.0" layoutY="447.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
                                     <Button fx:id="btnMinusCh_8" contentDisplay="CENTER" layoutX="150.0" layoutY="492.0" mnemonicParsing="false" onAction="#toDecrease" text="--" />
-                                    <Label fx:id="lblIntCh_1" layoutX="230.0" layoutY="180.0" text="35" />
-                                    <Label fx:id="lblIntCh_2" layoutX="230.0" layoutY="225.0" text="35" />
-                                    <Label fx:id="lblIntCh_3" layoutX="230.0" layoutY="270.0" text="35" />
-                                    <Label fx:id="lblIntCh_4" layoutX="230.0" layoutY="315.0" text="35" />
-                                    <Label fx:id="lblIntCh_5" layoutX="230.0" layoutY="360.0" text="35" />
-                                    <Label fx:id="lblIntCh_6" layoutX="230.0" layoutY="405.0" text="35" />
-                                    <Label fx:id="lblIntCh_7" layoutX="230.0" layoutY="450.0" text="35" />
-                                    <Label fx:id="lblIntCh_8" layoutX="230.0" layoutY="495.0" text="35" />
+                                    <Label fx:id="lblIntCh_1" layoutX="230.0" layoutY="180.0" text="0" />
+                                    <Label fx:id="lblIntCh_2" layoutX="230.0" layoutY="225.0" text="0" />
+                                    <Label fx:id="lblIntCh_3" layoutX="230.0" layoutY="270.0" text="0" />
+                                    <Label fx:id="lblIntCh_4" layoutX="230.0" layoutY="315.0" text="0" />
+                                    <Label fx:id="lblIntCh_5" layoutX="230.0" layoutY="360.0" text="0" />
+                                    <Label fx:id="lblIntCh_6" layoutX="230.0" layoutY="405.0" text="0" />
+                                    <Label fx:id="lblIntCh_7" layoutX="230.0" layoutY="450.0" text="0" />
+                                    <Label fx:id="lblIntCh_8" layoutX="230.0" layoutY="495.0" text="0" />
                                     <ImageView fx:id="imgEnCh_1" fitHeight="15.0" fitWidth="20.0" layoutX="270.0" layoutY="180.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
                                           <Image url="@images/led-red-gray-on.png" />
@@ -219,9 +219,14 @@
                                           <Image url="@images/led-red-gray-on.png" />
                                        </image>
                                     </ImageView>
-                                    <ImageView fx:id="imgRun" fitHeight="40.0" fitWidth="29.0" layoutX="170.0" layoutY="87.0" pickOnBounds="true" preserveRatio="true">
+                                    <ImageView fx:id="imgRun" fitHeight="40.0" fitWidth="29.0" layoutX="271.0" layoutY="45.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
                                           <Image url="@images/led-red-on.png" />
+                                       </image>
+                                    </ImageView>
+                                    <ImageView fx:id="imgOff" fitHeight="40.0" fitWidth="29.0" layoutX="271.0" layoutY="45.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                                       <image>
+                                          <Image url="@images/green-led-on.png" />
                                        </image>
                                     </ImageView>
                                  </children>

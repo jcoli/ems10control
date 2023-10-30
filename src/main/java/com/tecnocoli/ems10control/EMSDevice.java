@@ -65,7 +65,7 @@ public class EMSDevice implements Serializable{
         this.friendlyName = friendlyName;
         this.deviceRunning = false;
         for (int i = 0; i<8; i++){
-            Channel ch = new Channel(true, true, 10, "Channel "+Integer.toString(i), Integer.toString(i));
+            Channel ch = new Channel(true, true, 1, "Channel "+Integer.toString(i), Integer.toString(i));
             channels.add(ch);
         }
     }
@@ -77,7 +77,7 @@ public class EMSDevice implements Serializable{
         this.friendlyName = friendlyName;
         this.deviceRunning = false;
         for (int i = 0; i<8; i++){
-            Channel ch = new Channel(false, false, 0, "Channel "+Integer.toString(i), Integer.toString(i));
+            Channel ch = new Channel(false, false, 1, "Channel "+Integer.toString(i), Integer.toString(i));
             channels.add(ch);
         }
     }

@@ -94,6 +94,7 @@ public class PrimaryController implements Initializable {
             String msg;
             msg = emsDeviceControl.enableEMSDeviceChannel(id_ch, 0, ch_enabled);
             sendMsg(msg);
+            update_view();
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -106,6 +107,7 @@ public class PrimaryController implements Initializable {
             String msg;
             msg = emsDeviceControl.increaseEMSDeviceChannel(id_ch, 0);
             sendMsg(msg);
+            update_view();
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -118,6 +120,7 @@ public class PrimaryController implements Initializable {
             String msg;
             msg = emsDeviceControl.decreaseEMSDeviceChannel(id_ch, 0);
             sendMsg(msg);
+            update_view();
         }catch ( Exception e){
             logger.info("toEnable " + e);
         }
@@ -131,6 +134,7 @@ public class PrimaryController implements Initializable {
                 lblConn.setText("Disconnected");
                 String s = ("0,0,0,0,#");
                 sendMsg(s);
+                update_view();
             }
         }catch ( IOException e){
             logger.info("Discon " + e);
@@ -143,6 +147,7 @@ public class PrimaryController implements Initializable {
                 String msg = emsDeviceControl.runEMSDeviceChannel(0);
                 logger.info("toRun ");
                 sendMsg(msg);
+                update_view();
             }
 
     }
@@ -186,6 +191,7 @@ public class PrimaryController implements Initializable {
                     tm.scheduleAtFixedRate(new subtimer(), 0,5000l);
                     String s = ("0,0,0,1,#");
                     sendMsg(s);
+                    update_view();
                 }
             }else{
                 logger.info("Have no devices");
@@ -276,6 +282,7 @@ public class PrimaryController implements Initializable {
             Platform.runLater(() -> {
                 try {
                     {
+
                         if (btConnected) {
                             connectWatchDog++;
                             String s = ("0," + "0,0,1,#");
@@ -283,33 +290,15 @@ public class PrimaryController implements Initializable {
 //                            logger.info("watchdog: "+connectWatchDog);
                             if (!emsDeviceControl.vcEmsDevice.isEmpty()) {
 //                              lblName.setText(vcEmsDevice.elementAt(0).getFriendlyName());
-                                lblAdd.setText(emsDeviceControl.vcEmsDevice.elementAt(0).getAddressDevice());
-                                lblTemp.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getTemperatureLevel()) + "°C");
-                                lblBat.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel()) + "V");
-                                lblCel1.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryCel1Level()) + "V");
-                                lblCel2.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryCel2Level()) + "V");
                             }
-                            if (emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel() != null) {
-                                if (emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel() < 6.5) {
-                                    lblBat.setTextFill(Color.ORANGERED);
-                                } else {
-                                    lblBat.setTextFill(Color.BLACK);
-                                }
-                            }
+
                             if (connectWatchDog>=30){
                                 btConnected = false;
                                 emsDeviceControl.vcEmsDevice.elementAt(0).setConnectedDevice(false);
-                                lblConn.setText("Disconnected");
                                 RemoteDevice rd = emsDeviceControl.vcEmsDevice.elementAt(0).getRmDevice();
+                            }
+                            update_view();
 
-                            }
-                            if (emsDeviceControl.vcEmsDevice.elementAt(0).getDeviceRunning()){
-//                              imgRun.setImage(led_on);
-                                logger.info("run on ");
-                            }else{
-                                imgRun.setImage(led_off);
-                                logger.info("run off ");
-                            }
                         }
                     }
                 } catch (IOException e) {
@@ -317,6 +306,53 @@ public class PrimaryController implements Initializable {
                 }
             });
         }
+    }
+
+    void update_view(){
+        if (emsDeviceControl.vcEmsDevice.elementAt(0).getDeviceRunning()){
+            imgRun.setVisible(false);
+            imgOff.setVisible(true);
+            logger.info("run on ");
+        }else{
+            imgRun.setVisible(true);
+            imgOff.setVisible(false);
+            logger.info("run off ");
+        }
+        if (emsDeviceControl.vcEmsDevice.elementAt(0).getConnectedDevice()){
+            lblConn.setText("Connected");
+            lblAdd.setText(emsDeviceControl.vcEmsDevice.elementAt(0).getAddressDevice());
+            lblTemp.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getTemperatureLevel()) + "°C");
+            lblBat.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel()) + "V");
+            lblCel1.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryCel1Level()) + "V");
+            lblCel2.setText(String.format("%.2f", emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryCel2Level()) + "V");
+
+            List<Channel> channels = emsDeviceControl.vcEmsDevice.elementAt(0).getChannels();
+            lblIntCh_1.setText(channels.get(0).getIntensity().toString());
+            lblIntCh_2.setText(channels.get(1).getIntensity().toString());
+            lblIntCh_3.setText(channels.get(2).getIntensity().toString());
+            lblIntCh_4.setText(channels.get(3).getIntensity().toString());
+            lblIntCh_5.setText(channels.get(4).getIntensity().toString());
+            lblIntCh_6.setText(channels.get(5).getIntensity().toString());
+            lblIntCh_7.setText(channels.get(6).getIntensity().toString());
+            lblIntCh_8.setText(channels.get(7).getIntensity().toString());
+
+        }else{
+            lblConn.setText("Disconnected");
+            lblAdd.setText(emsDeviceControl.vcEmsDevice.elementAt(0).getAddressDevice());
+            lblTemp.setText(String.format("%.2f", 0+ "°C"));
+            lblBat.setText(String.format("%.2f", 0 + "V"));
+            lblCel1.setText(String.format("%.2f", 0 + "V"));
+            lblCel2.setText(String.format("%.2f", 0 + "V"));
+        }
+        if (emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel() != null) {
+            if (emsDeviceControl.vcEmsDevice.elementAt(0).getBatteryLevel() < 6.5) {
+                lblBat.setTextFill(Color.ORANGERED);
+            } else {
+                lblBat.setTextFill(Color.BLACK);
+            }
+        }
+
+
     }
 
     @FXML
@@ -425,8 +461,12 @@ public class PrimaryController implements Initializable {
     private ImageView imgEnCh_8;
     @FXML
     private ImageView imgRun;
+    @FXML
+    private ImageView imgOff;
 
-    Image led_on = new Image(new File("led-red-on.png").toURI().toString());
-    Image led_off = new Image(new File("green-led-on.png").toURI().toString());
+    File file = new File("resources/led-red-on.png");
+    File file2 = new File("resources/green-led-on.png");
+    Image led_on = new Image(file.toURI().toString());
+    Image led_off = new Image(new File("resources/green-led-on.png").toURI().toString());
 
 }
